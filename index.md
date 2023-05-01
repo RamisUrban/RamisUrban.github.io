@@ -20,7 +20,7 @@ sitemap:
 <table>
  	<tr>
 	<td style="text-align:center;"><centre>
-		<a href="{{ '/blog'}}">
+		<a href="{{ '/Project1'}}">
 		<img src="{{ '/assets/img/featuredwork/Project01_Gen.jpg' | prepend: site.baseurl }}" style="height:300px; object-fit: cover; width:auto; max-width:100%;"> <font size=4> Transit-Induced-Gentrification? <br> <font size=3> Case of East London   
 	<td style="text-align:center;"><centre>
 		<a href="{{ '/blog' | prepend: site.baseurl }}">
