@@ -1,10 +1,11 @@
 ---
 layout: page
+<img src="{{ '/assets/img/nounpenguin.jpg' | prepend: site.baseurl }}" id="about-img" style="height:5%;">
 title:  "My Project 01"
 subtitle: "Master Thesis" 
 categories: ["Projects"]
 ---
-<img src="{{ '/assets/img/nounpenguin.jpg' | prepend: site.baseurl }}" id="about-img" style="height:20%;">
+
 
 <img src="{{ '/assets/img/featuredwork/Project02_LwW.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:100%;">
 
