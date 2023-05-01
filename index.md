@@ -20,10 +20,10 @@ sitemap:
 <table>
  	<tr>
 	<td style="text-align:center; height: 400px"><centre>
-		<a href="{{ '/Project1'}}">
+		<a href="{{ '/blog' | prepend: site.baseurl}}">
 		<img src="{{ '/assets/img/featuredwork/Project01_Gen.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto; max-width:100%;"> <font size=4> Transit-Induced-Gentrification? <br> <font size=3> Case of East London   
 	<td style="text-align:center; height: 400px"><centre>
-		<a href="{{ '/blog' | prepend: site.baseurl }}">
+		<a href="{{ '/02Livewithwater' }}">
 		<img src="{{ '/assets/img/featuredwork/Project02_LwW.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto; max-width:100%;"> <font size=4> Live with Water <br> <font size=3> A Pattern Language Approach   
 	<tr>	
 	<td style="text-align:center; height: 400px"><centre>
