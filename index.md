@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Hello
-subtitle: My name is Pudhina
+subtitle: My name is Jiaqi Wang
 sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/nounpenguin.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability</p>
-	<p>Fork and use the theme from the <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+	<p>A Urban designer, Planner and researcher</p>
+	<p>Aim at building an inclusive and sustainable future with more people</p>
 </div>
