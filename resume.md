@@ -1,14 +1,17 @@
 ---
 layout: page
-title: Résumé
-subtitle: An awesome person
+title: Resume
+subtitle: 📑
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
 ### SKILLS
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
+<strong> Adobe Series:</strong> Illustrator, Indesign, Photoshop, Promiere, Aftereffect.
+<br><strong> Architecture and Urban Design:</strong> AutoCAD, Rhino+GH, Sketchup, Revit; 
+<br><strong> Data Analysis:</strong> Geospatial Analysis (QGIS/ArchGIS), Regression and Causality Identification (Stata/SPSS)
+<br><strong> Visualisation</strong>: Lumion, Enscape, Vray, Procreate and Hand-drawing
 
 ### PROJECTS
 **Title** - Description - Place <span style="float: right; ">Time span</span>  
