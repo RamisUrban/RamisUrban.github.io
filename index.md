@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello
-subtitle: My name is Jiaqi Wang
+title: Hello!
+subtitle: My name is Jiaqi Wang!
 sitemap:
   priority: 0.9
 ---
@@ -9,6 +9,6 @@ sitemap:
 <img src="{{ '/assets/img/nounpenguin.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>A Urban designer, Planner and researcher</p>
-	<p>Aim at building an inclusive and sustainable future with more people</p>
+	<p>A Curious Urban Designer, Planner and Researcher</p>
+	<p>I Aim at Building an Inclusive and Sustainable Future with More People! </p>
 </div>
