@@ -1,14 +1,11 @@
 ---
 layout: page
-header-img: "/nounpenguin.jpg"
 title:  "My Project 01"
 subtitle: "Master Thesis" 
 categories: ["Projects"]
 ---
 
-<header>
-  <img src="{{ page.header-img | prepend: site.baseurl }}" alt="Header Image">
-</header>
+<img src="{{ '/assets/img/nounpenguin.jpg' | prepend: site.baseurl }}" id="about-img"  style="height:5%>
 
 <img src="{{ '/assets/img/featuredwork/Project02_LwW.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:100%;">
 
