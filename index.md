@@ -19,21 +19,47 @@ sitemap:
 
 <table>
  	<tr>
-	<td style="text-align:center;vertical-align: top; height: 400px"><centre>
-		<a href="{{ '/blog' | prepend: site.baseurl}}">
-		<img src="{{ '/assets/img/featuredwork/Project01_Gen.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto; max-width:100%;"> <font size=4> Transit-Induced-Gentrification? <br> <font size=2> Case of East London   
-	<td style="text-align:center;vertical-align: top; height: 400px"><centre>
+	<td style="text-align:center;vertical-align: top; height: 400px">
+		<centre>
+	  <a href="{{ '/blog' | prepend: site.baseurl}}">
+		<img src="{{ '/assets/img/featuredwork/Project01_Gen.jpg' | prepend: site.baseurl }}" 
+			style="height:auto; object-fit: cover; width:auto; max-width:100%;"> 
+		<font size=4> 
+			Transit-Induced-Gentrification? 
+			<br> 
+		<font size=2> 
+			Case of East London   
+	</td>
+	<td style="text-align:center;vertical-align: top; height: 400px">
+		<centre>
 		<a href="{{ '/02Livewithwater' }}">
-		<img src="{{ '/assets/img/featuredwork/Project021_Pattern.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto; max-width:100%;"> <font size=4> Live with Water <br> <font size=2> A Pattern Language Approach   
+			<img src="{{ '/assets/img/featuredwork/Project021_Pattern.jpg' | prepend: site.baseurl }}" 
+			style="height:auto; object-fit: cover; width:auto; max-width:100%;"> 
+			<font size=4> 
+			Live with Water 
+			<br> 
+			<font size=2> 
+			A Pattern Language Approach 
+	</td>  
 	<tr>	
-	<td style="text-align:center;vertical-align: top; height: 400px"><centre>
+	<td style="text-align:center;vertical-align: top; height: 400px">
+	<centre>
 		<a href="{{ '/blog' | prepend: site.baseurl }}">
-		<img src="{{ '/assets/img/featuredwork/Project02_LwW.jpg' | prepend: site.baseurl }}" onmouseover="this.src='/assets/img/featuredwork/Project021_Pattern.jpg'" onmouseout="this.src='/assets/img/featuredwork/Project02_LwW.jpg'" style="height:auto; object-fit: cover; width:auto; max-width:100%;"> <font size=4> Live with Water <br> <font size=2> Rethinking Urban Development for the Lake Chao Basin   
+			<img src="{{ '/assets/img/featuredwork/Project02_LwW.jpg' | prepend: site.baseurl }}" 
+			onmouseover="this.src='/assets/img/featuredwork/Project021_Pattern.jpg'" 
+			onmouseout="this.src='/assets/img/featuredwork/Project02_LwW.jpg'" 
+			style="height:auto; object-fit: cover; width:auto; max-width:100%;"> 
+		<font size=4> 
+		Live with Water 
+		<br>
+		 <font size=2> 
+		 Rethinking Urban Development for the Lake Chao Basin   
+	</td>
 	<td style="text-align:center;vertical-align: top; height: 400px"><centre>
 		<a href="{{ '/02Livewithwater' }}">
 		<img src="{{ '/assets/img/featuredwork/Project052_Airport.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto; max-width:100%;"> <font size=4> Hallbergmoos 2050 <br> <font size=2> Green Airport City of Munich   
-	<tr>	
-	<td style="text-align:center;vertical-align: top; height: 400px"><centre>
+	<tr>
+    <td style="text-align:center;vertical-align: top; height: 400px"><centre>
 		<a href="{{ '/blog' | prepend: site.baseurl }}">
 		<img src="{{ '/assets/img/featuredwork/Project03_ZH.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto; max-width:100%;"> <font size=4> Liv/fe Transition <br> <font size=2> A Circular Agri-food Sector in South Holland   
 	<td style="text-align:center;vertical-align: top;  height: 400px"><centre>
