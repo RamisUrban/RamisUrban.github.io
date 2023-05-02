@@ -6,7 +6,7 @@ sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/nounpenguin.jpg' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/untitledpenguin.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
 	<font size=8> A Curious Urban Designer, 
