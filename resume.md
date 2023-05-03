@@ -34,8 +34,8 @@ Bachelor of Architecture (Honor)
 <br>
 
 **Technical University of Munich - Germany** <span style="float: right; ">2019.Mar-2019.Jul</span> <br>
-*Chair of Urban Structure and Transport Planning* 
-*- Exchange Student*  
+*Chair of Urban Structure and Transport Planning*  
+Exchange Student  
 <br>
 
 #### RESEARCH AND DESIGN PROJECTS
