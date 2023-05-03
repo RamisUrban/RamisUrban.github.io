@@ -41,7 +41,7 @@ Bachelor of Architecture (Honor)
 #### RESEARCH AND DESIGN PROJECTS
 
 ### Transit-Induced-Genetrification? <span style="float: right; ">2022.Dec-Present</span>
-**The Impact from Dockland Light Railway and London Overground Improvement on Surrounding Neighbourhoods in East London**  
+**The Impact from Dockland Light Railway and London Overground Improvement on Surrounding Neighbourhoods in East London(Ongoing)**  
  - By conducting quantitative analysis in STATA and QGIS, the research aims to create an assessment of public transport development on surrounding neighborhoods’ social economic indicators to proxy the gentrification dynamics it triggers. 
 
 
@@ -49,20 +49,19 @@ Bachelor of Architecture (Honor)
 **A Sustainable Water-Oriented Urban Development Pattern**  
  - Developed a toolbox focusing on mitigating flood risk, tackling water shortage, and reviving water ecology, based on urban metabolism theory.<br> 
  - Pilot Project as a showcase for the toolbox: Self-circular Shangpai Town 2030
--> Read from <a url="http://resolver.tudelft.nl/uuid:ec611a54-07c1-4801-9bbd-2d4afd8ac120 "><strong>> Repository of TU Delft </strong></a> 
+-> Read from [Repository of TU Delft](http://resolver.tudelft.nl/uuid:ec611a54-07c1-4801-9bbd-2d4afd8ac120) 
 
 
 ### Inside Out? <span style="float: right; ">2019.Mar-2019.Dec</span> 
 **Regional Urbanisation through Accessibility?—The “Zweite Stammstrecke” Express Rail Project in Munich**  
  - Development of a digital tool for Transit-oriented development analysis for Munich Metropolitan Region, using ArchGIS and SPSS <br>
--> Read from <a url="https://doi.org/10.3390/urbansci4010002 "><strong>> Urban Science</strong></a>
+-> Read from [Urban Science](https://doi.org/10.3390/urbansci4010002)
 
 
 ### Liv/fe Transition <span style="float: right; ">2021.Feb.-2021.Apr</span>  
 **To a Healthy Agriculture Sector with Livestock as an Integral Part of Life**
 - An integrated framework for energy-transition and a circular agrifood sectors, by encouraging local production and promoting diet transition among consumers <br>
--> Read from <a url="http://resolver.tudelft.nl/uuid:95a96a98-3ec6-4857-b1d3-48089b326c4d"><strong>> Repository of TU Delft </strong></a> </span>
-
+-> Read from [Repository of TU Delft](http://resolver.tudelft.nl/uuid:95a96a98-3ec6-4857-b1d3-48089b326c4d)
 
 ### Hybrid Networks <span style="float: right; ">2021.Feb.-2021.Jun</span>  
 **Great Bay Area 2030 and Beyond**  
