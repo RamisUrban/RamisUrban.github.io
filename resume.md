@@ -49,13 +49,13 @@ Bachelor of Architecture (Honor)
 **A Sustainable Water-Oriented Urban Development Pattern**  
  - Developed a toolbox focusing on mitigating flood risk, tackling water shortage, and reviving water ecology, based on urban metabolism theory.<br> 
  - Pilot Project as a showcase for the toolbox: Self-circular Shangpai Town 2030
--> Read from <a url="http://resolver.tudelft.nl/uuid:ec611a54-07c1-4801-9bbd-2d4afd8ac120 "><strong> Repository of TU Delft </strong></a> 
+-> Read from <a url="http://resolver.tudelft.nl/uuid:ec611a54-07c1-4801-9bbd-2d4afd8ac120 "><strong>> Repository of TU Delft </strong></a> 
 
 
 ### Inside Out? <span style="float: right; ">2019.Mar-2019.Dec</span> 
 **Regional Urbanisation through Accessibility?—The “Zweite Stammstrecke” Express Rail Project in Munich**  
  - Development of a digital tool for Transit-oriented development analysis for Munich Metropolitan Region, using ArchGIS and SPSS <br>
--> Read from <a url="https://doi.org/10.3390/urbansci4010002 "><strong> Urban Science</strong></a>
+-> Read from <a url="https://doi.org/10.3390/urbansci4010002 "><strong>> Urban Science</strong></a>
 
 
 ### Liv/fe Transition <span style="float: right; ">2021.Feb.-2021.Apr</span>  
