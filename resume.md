@@ -84,8 +84,9 @@ Exchange Student
 **Commercial Complex Design at Sichuan Road**
 - Focus on creating accessible and inclusive public space for everyone in the city
 
+<br>
 
-### EXPERIENCE
+#### EXPERIENCE
 
 #### Volunteer Publishing Assistant - **The Urban Eyes** <span style="float: right; ">2023.Apr.-Present</span>  
  
