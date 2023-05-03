@@ -15,24 +15,26 @@ subtitle: 📑
 
 #### EDUCATION
 
-**University of Cambridge - United Kingdom** <span style="float: right; ">2022.Oct-Present</span>
+**University of Cambridge - United Kingdom** <span style="float: right; ">2022.Oct-Present</span><br>
 *Department of Land Economy*
 *Mphil Planning, Growth and Regeneration*  
 Core Module:
+<br>
 
-**Technical University of Delft - Netherlands** <span style="float: right; ">2020.Aug-2022.Jul</span>  
+**Technical University of Delft - Netherlands** <span style="float: right; ">2020.Aug-2022.Jul</span><br>  
 *Faculty of Architecture and the Built Environment(Faculteit Bouwkunde)*
 *MSc Architecture, Urbanism and Building Sciences, Track:Urbanism*  
 Honor: Master of Science Cum Laude
 Grade: 8.58/10 
+<br>
 
-**Tongji University, China** <span style="float: right; ">2015.Sep-2020.Jul</span> 
+**Tongji University, China** <span style="float: right; ">2015.Sep-2020.Jul</span> <br>
 *College of Architecture and Urban Planning* 
 *Bachelor of Architecture*  
 Grade: 4.87/5.0 (Top3%) 
 Award: Outstanding Graduates of Tongji University
 
-**Technical University of Munich, Germany** <span style="float: right; ">2019.Mar-2019.Jul</span> 
+**Technical University of Munich, Germany** <span style="float: right; ">2019.Mar-2019.Jul</span> <br>
 *Chair of Urban Structure and Transport Planning* 
 *Exchange Student*  
 Modules:  
