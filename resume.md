@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resume
-subtitle: 📑
+title: Resume📑
+subtitle: Know More About Me
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
