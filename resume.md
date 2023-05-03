@@ -87,17 +87,10 @@ Bachelor of Architecture (Honor)
 
 ### EXPERIENCE
 
-Volunteer Publishing Assistant - **The Urban Eyes** <span style="float: right; ">2023.Apr.-Present</span>  
-- Creating Documentation and Materials for Social Media and Publications for this Artist-driven Urban Renewal Charity 
+#### Volunteer Publishing Assistant - **The Urban Eyes** <span style="float: right; ">2023.Apr.-Present</span>  
  
-Volunteer Facilitator- **East London Water Park** <span style="float: right; ">2023.Apr.-Present</span>  
-Engaged in the monthly work with design, inclusivity team to facilitate the community-led project  
+#### Volunteer Facilitator- **East London Water Park** <span style="float: right; ">2023.Apr.-Present</span>  
 
-Part-time Urban Design and Architecture Intern - **Original Studio** <span style="float: right; ">2019.Aug.-2019.Dec</span>  
-- Contributing to the ideating stage and collaborated with team members on design development and presentation materials 
-- Assist the bid preparation and technical drawing of the senior architect in the team  
+#### Part-time Urban Design and Architecture Intern - **Original Studio** <span style="float: right; ">2019.Aug.-2019.Dec</span>  
 
-Visualization Team Coordinator - **Media & Publicity Office at Student Union of CAUP** <span style="float: right; ">2017.Sep.-2018.Jul</span>  
-- Coordinated visual design and production for student activities
-- Initiated a new social media column and launched the Photography Competition and Exhibition
- 
+#### Visualization Team Coordinator - **Media & Publicity Office at Student Union of CAUP** <span style="float: right; ">2017.Sep.-2018.Jul</span>  
