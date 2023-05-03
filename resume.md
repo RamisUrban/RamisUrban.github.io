@@ -41,19 +41,19 @@ Bachelor of Architecture (Honor)
 #### RESEARCH AND DESIGN PROJECTS
 
 ### Transit-Induced-Genetrification? <span style="float: right; ">2022.Dec-Present</span>
-**The Impact from Dockland Light Railway and London Overground Improvement on Surrounding Neighbourhoods in East London(Ongoing)**  
+**The Impact from Dockland Light Railway and London Overground Improvement on Surrounding Neighbourhoods in East London(Ongoing)** 
  - By conducting quantitative analysis in STATA and QGIS, the research aims to create an assessment of public transport development on surrounding neighborhoods’ social economic indicators to proxy the gentrification dynamics it triggers. 
 
 
 ### Live with Water <span style="float: right; ">2021.Aug-2022.Jul</span>  
-**A Sustainable Water-Oriented Urban Development Pattern**  
- - Developed a toolbox focusing on mitigating flood risk, tackling water shortage, and reviving water ecology, based on urban metabolism theory.<br> 
- - Pilot Project as a showcase for the toolbox: Self-circular Shangpai Town 2030
+**A Sustainable Water-Oriented Urban Development Pattern**
+ - Developed a toolbox focusing on mitigating flood risk, tackling water shortage, and reviving water ecology, based on urban metabolism theory.
+ - Pilot Project as a showcase for the toolbox: Self-circular Shangpai Town 2030 <br>
 -> Read from [Repository of TU Delft](http://resolver.tudelft.nl/uuid:ec611a54-07c1-4801-9bbd-2d4afd8ac120) 
 
 
 ### Inside Out? <span style="float: right; ">2019.Mar-2019.Dec</span> 
-**Regional Urbanisation through Accessibility?—The “Zweite Stammstrecke” Express Rail Project in Munich**  
+**Regional Urbanisation through Accessibility?—The “Zweite Stammstrecke” Express Rail Project in Munich**
  - Development of a digital tool for Transit-oriented development analysis for Munich Metropolitan Region, using ArchGIS and SPSS <br>
 -> Read from [Urban Science](https://doi.org/10.3390/urbansci4010002)
 
