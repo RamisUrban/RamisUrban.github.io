@@ -7,62 +7,54 @@ subtitle: 📑
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
-#### SKILLS
+### SKILLS
 <strong> Adobe Series:</strong> Illustrator, Indesign, Photoshop, Promiere, Aftereffect.
 <br><strong> Architecture and Urban Design:</strong> AutoCAD, Rhino+GH, Sketchup, Revit; 
 <br><strong> Data Analysis:</strong> Geospatial Analysis (QGIS/ArchGIS), Regression and Causality Identification (Stata/SPSS)
 <br><strong> Visualisation</strong>: Lumion, Enscape, Vray, Procreate and Hand-drawing
 
-#### EDUCATION
+### EDUCATION
 
 **University of Cambridge - United Kingdom** <span style="float: right; ">2022.Oct-Present</span><br>
 *Department of Land Economy*
-*Mphil Planning, Growth and Regeneration*  
-Core Module: 
-Urban and environmental planning, Urban and Housing Policy, Research methods(Quantitative)
-Energy and climate change, Spatial Economics , Place-based Policy
+Mphil Planning, Growth and Regeneration 
 <br>
 
-**Technical University of Delft - Netherlands** <span style="float: right; ">2020.Aug-2022.Jul</span><br>  
+**Technical University of Delft - Netherlands** <span style="float: right; ">2020.Aug-2022.Jul</span>  
 *Faculty of Architecture and the Built Environment(Faculteit Bouwkunde)*
-*MSc Architecture, Urbanism and Building Sciences, Track:Urbanism*  
-Honor: Master of Science Cum Laude
-Grade: 8.58/10 
+MSc Architecture, Urbanism and Building Sciences, Track:Urbanism(Cum Laude) 
 <br>
 
-**Tongji University, China** <span style="float: right; ">2015.Sep-2020.Jul</span> <br>
+**Tongji University - China** <span style="float: right; ">2015.Sep-2020.Jul</span> <br>
 *College of Architecture and Urban Planning* 
-*Bachelor of Architecture*  
-Grade: 4.87/5.0 (Top3%) 
-Award: Outstanding Graduates of Tongji University
+Bachelor of Architecture(Honor)
+<br>
 
-**Technical University of Munich, Germany** <span style="float: right; ">2019.Mar-2019.Jul</span> <br>
+**Technical University of Munich - Germany** <span style="float: right; ">2019.Mar-2019.Jul</span> <br>
 *Chair of Urban Structure and Transport Planning* 
 *Exchange Student*  
-Modules:  
-Spatial Development Project (15 Credit Mark=1.0/sehr gut)
-Airport Region of Munich (3 Credit Mark=1.3/sehr gut)
+<br>
 
 ### Projects
 
 ## Transport Planning 
 
 #### Transit-Induced-Genetrification? <span style="float: right; ">2022.Dec-Present</span>  
-**Measure the socio-economic impact of Rail Network Improvement on East London’s Neighbourhoods** 
-By conducting quantitative analysis in STATA and QGIS, the research aims to create an assessment of public transport development on surrounding neighborhoods’ social economic indicators to proxy the gentrification dynamics it triggers. 
+**Measure the socio-economic impact of Rail Network Improvement on East London’s Neighbourhoods**  
+ By conducting quantitative analysis in STATA and QGIS, the research aims to create an assessment of public transport development on surrounding neighborhoods’ social economic indicators to proxy the gentrification dynamics it triggers. 
 
 #### Inside Out? <span style="float: right; ">2019.Mar-2019.Dec</span> 
 **Regional Urbanisation through Accessibility?—The “Zweite Stammstrecke” Express Rail Project in Munich**  
-Development of a digital tool for Transit-oriented development analysis for Munich Metropolitan Region, using ArchGIS and SPSS
+ Development of a digital tool for Transit-oriented development analysis for Munich Metropolitan Region, using ArchGIS and SPSS
 Published on Urban Science: https://doi.org/10.3390/urbansci4010002 
 
 ## Climate Action and Circular Economy
 
 #### Live with Water <span style="float: right; ">2021.Aug-2022.Jul</span>  
-**A sustainable water-oriented urban development pattern**
-A systemic design project focus on mitigating flood risk, tackling water shortage, and reviving water ecology based on urban metabolism theory.
+**A sustainable water-oriented urban development pattern**  
+ A systemic design project focus on mitigating flood risk, tackling water shortage, and reviving water ecology based on urban metabolism theory. 
 A toolbox for future sustainable planning are developed, which is further tested in scenario creation in the pilot study area 
-Available at <a url="http://resolver.tudelft.nl/uuid:ec611a54-07c1-4801-9bbd-2d4afd8ac120 "><strong>> Repository of TU Delft </strong></a> </span>
+Available at <a url="http://resolver.tudelft.nl/uuid:ec611a54-07c1-4801-9bbd-2d4afd8ac120 "><strong> Repository of TU Delft </strong></a> 
 <br>
 
 #### Liv/fe Transition <span style="float: right; ">2021.Feb.-2021.Apr</span>  
