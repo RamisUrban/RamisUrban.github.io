@@ -28,7 +28,7 @@ sitemap:
 			Transit-Induced-Gentrification? 
 			<br> 
 		<font size=2> 
-			 Investigating the impact from transport development in East London on surrounding Neighbourhoods
+			 A study based on East London
 	<td style="text-align:center;vertical-align: top; height: 400px">
 		<centre>
 		<a href="{{ '/02Livewithwater' }}">
