@@ -28,8 +28,7 @@ sitemap:
 			Transit-Induced-Gentrification? 
 			<br> 
 		<font size=2> 
-			Case of East London   
-	</td>
+			 Investigating the impact from transport development in East London on surrounding Neighbourhoods
 	<td style="text-align:center;vertical-align: top; height: 400px">
 		<centre>
 		<a href="{{ '/02Livewithwater' }}">
@@ -39,8 +38,7 @@ sitemap:
 			Live with Water 
 			<br> 
 			<font size=2> 
-			A Pattern Language Approach 
-	</td>  
+			Using Pattern Language as a Research and Co-design Approach   
 	<tr>	
 	<td style="text-align:center;vertical-align: top; height: 400px">
 	<centre>
@@ -53,8 +51,7 @@ sitemap:
 		Live with Water 
 		<br>
 		 <font size=2> 
-		 Rethinking Urban Development for the Lake Chao Basin   
-	</td>
+		 A Systemic Strategy for the Lake Chao Basin   
 	<td style="text-align:center;vertical-align: top; height: 400px"><centre>
 		<a href="{{ '/02Livewithwater' }}">
 		<img src="{{ '/assets/img/featuredwork/Project052_Airport.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto; max-width:100%;"> <font size=4> Hallbergmoos 2050 <br> <font size=2> Green Airport City of Munich   
