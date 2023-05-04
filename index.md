@@ -72,7 +72,15 @@ sitemap:
 	<tr>
 	<td style="text-align:center;vertical-align: top;  height: 400px"><centre>
 		<a href="{{ '/blog' | prepend: site.baseurl }}">
-		<img src="{{ '/assets/img/featuredwork/Project07_UC.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto; max-width:100%;"> <font size=4> Urban "Umbrella" <br> <font size=2> Redefining Public Space in North Sichuan Road
+		<img src="{{ '/assets/img/featuredwork/Project07_UCaxo.jpg' | prepend: site.baseurl }}"
+			onmouseover="this.src='/assets/img/featuredwork/Project07_UC.jpg'" 
+			onmouseout="this.src='/assets/img/featuredwork/Project07_UCaxo.jpg'"  
+		style="height:auto; object-fit: cover; width:auto; max-width:100%;"> 
+		<font size=4> 
+		Urban "Umbrella" 
+		<br> 
+		<font size=2> 
+		Redefining Public Space in North Sichuan Road
 	<td style="text-align:center;vertical-align: top;  height: 400px"><centre>
 		<a href="{{ '/blog' | prepend: site.baseurl }}">
 		<img src="{{ '/assets/img/featuredwork/Project08_Campus.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover ;width:auto; max-width:100%;"> <font size=4> Co-Living Co-Creating? <br> <font size=2> Student Housing For Tongji University
