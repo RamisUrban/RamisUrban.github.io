@@ -15,7 +15,7 @@ categories: ["Urban Design & Architecture"]
 
 North Sichuan Road was once a bustling high street in Shanghai, characterized by clusters of local household businesses and vendors, and a vibrant public life. However, in recent decades, the rise of online shopping has led to a decline in local businesses, exacerbated by the trend of gentrification and the privatization of public space. The informal spaces for local community have been shrinken due to the expansion of such luxury commerical districts. 
 
-Located at the north end of North Sichuan Road, this project is at the frontline of such conflict. Thus, our project hopes to respond to such a challenge by integrating a more inclusive public space into the requested commercial function. By doing so, we hope that the area's once-thriving public life can probably reseen in this district in a new form.
+Located at the north end of North Sichuan Road, this project is at the frontline of such conflict. Thus, our project hopes to respond to such a challenge by integrating a more inclusive public space into the requested commercial function. By doing so, we hope that the area's once-thriving public life can be reseen in this district in a new form.
 
 <div style="text-align:center;">
    <img src="{{ '/assets/img/featuredwork/07-UC/Project07_context.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:70%; margin: 0 auto;">
