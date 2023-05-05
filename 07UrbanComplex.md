@@ -56,5 +56,5 @@ During the traditional lantern festival
 </div>
 
 ## Acknowledgement
-This concept and design is co-authored by Jiaqi Wang and Xiyan Yang, while The above visualisation are solely produced by Jiaqi Wang.
+The concept and design are co-authored by Jiaqi Wang and Xiyan Yang, while the visualisations above are solely produced by Jiaqi Wang.
 
