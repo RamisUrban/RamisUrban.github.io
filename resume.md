@@ -88,7 +88,7 @@ Exchange Student
 - Based in a pre-colonial district in Shanghai, adopting a holistic design solution that integrate transit-oriented commercial property development, culture-led regeneration and stakeholder engagement
 - won the Gold Award of academic year 2020 in China Living Environment Design Competition.
 
-<a href="{{ '/blog' | prepend: site.baseurl }}"> <font size=6> Urban "Umbrella"?  <span style="float: right; ">Feb.2018-Jun.2018</span>  
+<a href="{{ '/blog' | prepend: site.baseurl }}"> <font size=6> Urban "Umbrellas"  <span style="float: right; ">Feb.2018-Jun.2018</span>  
 **Commercial Complex Design at Sichuan Road**
 - Focus on creating accessible and inclusive public space for everyone in the city
 
