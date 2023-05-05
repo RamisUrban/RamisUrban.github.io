@@ -24,22 +24,36 @@ Under these timber structures, tracks, sports fields, skate parks, and multiple 
 ## Drawings
 
 **Sectional Persepctive**
-<img src="{{ '/assets/img/featuredwork/07-UC/Project07_Cut.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:100%;" div align=centre>
+<div style="text-align:center;">
+    <img src="{{ '/assets/img/featuredwork/07-UC/Project07_Cut.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:100%;">
+</div>
 
 **Ground Floor**
-<img src="{{ '/assets/img/featuredwork/07-UC/Project07_GF.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:70%;" div align=centre>
+<div style="text-align:center;">
+    <img src="{{ '/assets/img/featuredwork/07-UC/Project07_GF.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:70%;">
+</div>
 
 **First Floor**
-<img src="{{ '/assets/img/featuredwork/07-UC/Project07_1F.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:70%;" div align=centre>
+<div style="text-align:center;">
+     <img src="{{ '/assets/img/featuredwork/07-UC/Project07_1F.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:70%;">
+</div>
 
 **Section**
-<img src="{{ '/assets/img/featuredwork/07-UC/Project07_section.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:70%;" div align=centre>
+<div style="text-align:center;">
+    <img src="{{ '/assets/img/featuredwork/07-UC/Project07_section.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:70%;">
+</div>
 
-**Rendering Perspective: From the park side**
-<img src="{{ '/assets/img/featuredwork/07-UC/Project07_Perspective.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:80%;" div align=centre>
+**Rendering Perspective**   
+From the park's side
+<div style="text-align:center;">
+   <img src="{{ '/assets/img/featuredwork/07-UC/Project07_Perspective.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:80%;">
+</div>
 
-**Rendering Perspective: During the traditional lantern festival**
-<img src="{{ '/assets/img/featuredwork/07-UC/Project07_Rain.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:70%;" div align=centre>
+**Rendering Perspective**  
+During the traditional lantern festival
+<div style="text-align:center;">
+     <img src="{{ '/assets/img/featuredwork/07-UC/Project07_Rain.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:70%;">
+</div>
 
 ## Acknowledgement
 This concept and design is co-authored by Jiaqi Wang and Xiyan Yang, while The above visualisation are solely produced by Jiaqi Wang.
