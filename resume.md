@@ -89,7 +89,7 @@ Exchange Student
 - won the Gold Award of academic year 2020 in China Living Environment Design Competition.
 
 
-### Urban "Umbrella"?  <span style="float: right; ">Feb.2018-Jul.2018</span>  
+### Urban "Umbrella"?  <span style="float: right; ">Feb.2018-Jun.2018</span>  
 **Commercial Complex Design at Sichuan Road**
 - Focus on creating accessible and inclusive public space for everyone in the city
 
