@@ -8,12 +8,11 @@ categories: ["Urban Design & Architecture"]
 <img src="{{ '/assets/img/featuredwork/07-UC/Project07_heading.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:100%; margin: 0 auto;">
 </div>
 
-## Basic Information
 
-Environment and Architecture Design Coursework at Tongji University
-Time: February.2018 - June. 2018
-Design Team: Jiaqi Wang & Xiyan Yang
-Project location: Shanghai, China
+Environment and Architecture Design Coursework at Tongji University  
+Time: February.2018 - June. 2018  
+Design Team: Jiaqi Wang & Xiyan Yang  
+Project location: Shanghai, China  
 
 ## Context
 
