@@ -13,7 +13,7 @@ subtitle: Know More About Me
 -Adobe Creative Suite:Indesign, Illustrator, Photoshop, Premiere<br>
 **Architecture and Urban Design:**  
 -AutoCAD, Rhino+GH, Sketchup, Revit  
--Lumion, Enscape, Vray
+-Lumion, Enscape, Vray  
 -Procreate and Hand-drawing <br>
 **Research and Data Analysis:**  
 -Geospatial Analysis: QGIS/ArchGIS     
@@ -42,7 +42,7 @@ Bachelor of Architecture (Honor)
 <br>
 
 **Technical University of Munich - Germany** <span style="float: right; ">Mar.2019-Jul.2019</span> <br>
-*Chair of Urban Structure and Transport Planning*  
+*Lehrstuhl für Raumentwicklung*  
 Exchange Student  
 <br>
 
