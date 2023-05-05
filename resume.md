@@ -109,7 +109,7 @@ Exchange Student
 
 #### EXTRACURRICULAR ACTIVITIES
 
-#### Climate & Sustainability Virtual Experience Program – Boston Consulting Group <span style="float: right; ">Mar-April 2023</span>  
-#### DOCOMOMO Student Workshop in 16th International Docomomo Conference, Tokyo <span style="float: right; ">Aug.2021</span>  
+#### Climate & Sustainability Virtual Experience Program – **Boston Consulting Group** <span style="float: right; ">Mar-April 2023</span>  
+#### DOCOMOMO Student Workshop in **16th International Docomomo Conference**, Tokyo <span style="float: right; ">Aug.2021</span>  
 #### Member of VR/AR group in Tongji University <span style="float: right; ">Mar.2018-Jan.2019</span>  
-#### Ruth& Arthur Scherbarth Foundation Art History Workshop ‘Power and Representation’<span style="float: right; ">Aug. 2017</span>  
+#### **Ruth& Arthur Scherbarth Foundation** Art History Workshop ‘Power and Representation’<span style="float: right; ">Aug. 2017</span>  
