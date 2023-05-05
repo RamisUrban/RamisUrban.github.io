@@ -60,7 +60,7 @@ Exchange Student
  - Read full report from [Repository of TU Delft](http://resolver.tudelft.nl/uuid:ec611a54-07c1-4801-9bbd-2d4afd8ac120) 
 
 
-### Inside Out? <span style="float: right; ">Mar.2019-Dec.2019</span> 
+### Inside Out? <span style="float: right; ">Mar.2019-Jul.2019</span> 
 **Regional Urbanisation through Accessibility?—The “Zweite Stammstrecke” Express Rail Project in Munich**
  - Development of a digital tool for Transit-oriented development analysis for Munich Metropolitan Region, using ArchGIS and SPSS <br>
  - Read full article from [Urban Science](https://doi.org/10.3390/urbansci4010002)
@@ -88,10 +88,10 @@ Exchange Student
 - Based in a pre-colonial district in Shanghai, adopting a holistic design solution that integrate transit-oriented commercial property development, culture-led regeneration and stakeholder engagement
 - won the Gold Award of academic year 2020 in China Living Environment Design Competition.
 
-
-### Urban "Umbrella"?  <span style="float: right; ">Feb.2018-Jun.2018</span>  
+<a href="{{ '/blog' | prepend: site.baseurl }}"> <font size=6> Urban "Umbrella"?  <span style="float: right; ">Feb.2018-Jun.2018</span>  
 **Commercial Complex Design at Sichuan Road**
 - Focus on creating accessible and inclusive public space for everyone in the city
+
 
 <br>
 
