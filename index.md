@@ -71,7 +71,7 @@ sitemap:
 		<img src="{{ '/assets/img/featuredwork/Project06_ZG.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto; max-width:100%;"> <font size=4> Boundless Zhang Garden <br> <font size=2> The Regeneration of West Nanjing Road District
 	<tr>
 	<td style="text-align:center;vertical-align: top;  height: 400px"><centre>
-		<a href="{{ '/blog' | prepend: site.baseurl }}">
+		<a href="{{ '/07UrbanComplex' | prepend: site.baseurl }}">
 		<img src="{{ '/assets/img/featuredwork/Project07_UCaxo.jpg' | prepend: site.baseurl }}"
 			onmouseover="this.src='/assets/img/featuredwork/Project07_UC.jpg'" 
 			onmouseout="this.src='/assets/img/featuredwork/Project07_UCaxo.jpg'"  
