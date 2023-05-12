@@ -60,8 +60,12 @@ sitemap:
 		<a href="{{ '/blog' | prepend: site.baseurl }}">
 		<img src="{{ '/assets/img/featuredwork/Project03_ZH.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto; max-width:100%;"> <font size=4> Liv/fe Transition <br> <font size=2> A Circular Agri-food Sector in South Holland   
 	<td style="text-align:center;vertical-align: top;  height: 400px"><centre>
-		<a href="{{ '/blog' | prepend: site.baseurl }}">
-		<img src="{{ '/assets/img/featuredwork/Project04_Synergy.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover ;width:auto; max-width:100%;"> <font size=4> Seeing Energy? <br> <font size=2> Green Energy Hub of TU Delft
+		<a href="{{ '/04Synergy' | prepend: site.baseurl }}">
+		<img src="{{ '/assets/img/featuredwork/Project04_Synergy.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover ;width:auto; max-width:100%;"> 
+		<font size=4> Seeing Energy? 
+		<br> 
+		<font size=2> 
+		Energy Hub of TU Delft
 	<tr>	
 	<td style="text-align:center;vertical-align: top;  height: 400px"><centre>
 		<a href="{{ '/blog' | prepend: site.baseurl }}">
@@ -77,7 +81,7 @@ sitemap:
 			onmouseout="this.src='/assets/img/featuredwork/Project07_UCaxo.jpg'"  
 		style="height:auto; object-fit: cover; width:auto; max-width:100%;"> 
 		<font size=4> 
-		Urban "Umbrella" 
+		"Urban Umbrellas" 
 		<br> 
 		<font size=2> 
 		Redefining Public Space in North Sichuan Road
