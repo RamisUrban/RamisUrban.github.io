@@ -7,8 +7,8 @@ categories: ["Urban Studies"]
 
 Research Project at the Technical University of Munich
 Time: April.2019 - July. 2018  
-Research Leader: Dr Fabian Wenner
-Core Research members: Khoi Anh Dang, Alessandro Pedrazzoli,Jiaqi Wang
+Research Leader: Dr Fabian Wenner  
+Development of the Assessment Tool: Dr Fabian Wenner, Khoi Anh Dang, Alessandro Pedrazzoli, Jiaqi Wang  
 Other Contributors: Melina Hölzl,Magdalena Schmidkunz,Alain Thierstein
 Project location: Munich, Germany  
 
