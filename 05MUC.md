@@ -27,7 +27,7 @@ Project location: Munich, Germany
 ## Clusters of the Nodes
 
 <div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/05-MUC/05-Mapping.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%; margin: 0 auto;">
+   <img src="{{ '/assets/img/featuredwork/05-MUC/05-cluster-01.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%; margin: 0 auto;">
 </div>
 
 By performing a K-mean cluster analysis, seven clusters of the nodes are identified. The following spider maps for each cluster show the typical levels of different measured indicators that reveal their spatial characteristics and development potentials to a certain extent. Also, for each type of node, a guiding planning principle is given as a reference for their future development.
