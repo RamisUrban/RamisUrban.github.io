@@ -12,6 +12,12 @@ Core Research members: Khoi Anh Dang, Alessandro Pedrazzoli,Jiaqi Wang
 Other Contributors: Melina Hölzl,Magdalena Schmidkunz,Alain Thierstein
 Project location: Munich, Germany  
 
+## Introduction
+
+The "Inside Out" project is a quantitative research project led by Dr Fabian Wenner to investigate the “Zweite Stammstrecke” Express Rail Project in Munich and its indication of urbanisation and regionalization. 
+
+Based on an integrated urban and transport planning philosophy, a digital tool to assess the balance of public transport accessibility and functional density at stations in the Munich Metropolitan Region (MMR) is developed, which also leads to further recommendations of planning strategies. 
+
 ## Methodology
 
 <div style="text-align:center;">
