@@ -5,7 +5,7 @@ subtitle: "Recalibrating Munich Metropolitan Region"
 categories: ["Urban Studies"]
 ---
 
-Research Project at the Technical University of Munich
+Research Project at the Technical University of Munich  
 Time: April.2019 - July. 2018  
 Research Leader: Dr Fabian Wenner   
 Development of the Assessment Tool: Dr Fabian Wenner, Khoi Anh Dang, Alessandro Pedrazzoli, Jiaqi Wang   
@@ -14,9 +14,9 @@ Project location: Munich, Germany
 
 ## Introduction
 
-The "Inside Out" project is a quantitative research project led by Dr Fabian Wenner to investigate the “Zweite Stammstrecke” Express Rail Project in Munich and its indication of urbanisation and regionalization. 
+The "Inside Out" project is a quantitative research project led by Dr Fabian Wenner to investigate the “Zweite Stammstrecke” Express Rail Project’s indication of urbanisation and regionalization for the Munich Metropolitan Region (MMR). 
 
-Based on an integrated urban and transport planning philosophy, a digital tool to assess the balance of public transport accessibility and functional density at stations in the Munich Metropolitan Region (MMR) is developed, which also leads to further recommendations of planning strategies. 
+Based on an integrated urban and transport planning philosophy, a digital tool to assess the balance of public transport accessibility and functional density at stations in the MMR is developed, which also leads to further recommendations of planning strategies. 
 
 ## Methodology
 
