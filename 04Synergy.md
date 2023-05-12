@@ -28,7 +28,7 @@ Project location: Delft, the Netherlands
 
 In the 21st Century, we are confronted with many unprecedented grand challenges, and one of the most pressing among them is the energy transition. Despite the critical need for sustainable energy solutions, many people still perceive energy as an abstract and elusive concept. Thus, in our joint design project, an energy-led urban regeneration approach is adopted to redefine the concept of energy in the built environment and inspire more people to take climate action.
 
-**Conceptual Framework**  
+**Conceptual Framework and Strategies**  
 How to Combine ‘Urban climate’ and ‘Densification’?
 
 <div style="text-align:center;">
@@ -37,20 +37,16 @@ How to Combine ‘Urban climate’ and ‘Densification’?
 
 In our concept, we define energy systems into two categories: passive and active. The former is composed of natural elements that help us to mitigate the climate impact, such as solar energy for heating during winter, evaporation from water that autonomously cools down the environment, as well as open soils that help flora to flourish and provide shading and transpiration. In contrast, the latter focuses on the man-made energy system, which covers more active processes of producing and consuming energy. To optimize both aspects, a series of strategies are proposed, including interventions ranging from natural ventilation, compact buildings, green roofs, and biota corridors to renewable energy sources, and energy storage systems. 
 
-**Passive Energy System**
 <div style="text-align:center;">
     <img src="{{ '/assets/img/featuredwork/04-SE/04_GroupPassive.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:100%;  margin: 0 auto;">
 </div>
 
-**Active Energy System**
 <div style="text-align:center;">
     <img src="{{ '/assets/img/featuredwork/04-SE/04_GroupActive.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:100%;  margin: 0 auto;">
 </div>
 
 Meanwhile, what is more important is how to further synergize these "passive" and "active" energy systems and integrate it into our daily urban environment. That is where we proposed further interventions to affect people's lifestyles as well as to promote innovation, education and cooperation programmes to accelerate the energy transition. Through such an effort, we hope the "back to back" TU Campus could perform as a catalyst that leverages a change for the future energy transition.     
 
-
-**Synergy**
 <div style="text-align:center;">
     <img src="{{ '/assets/img/featuredwork/04-SE/04_Groupsynergy.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
 </div>
