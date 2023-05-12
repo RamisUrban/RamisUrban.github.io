@@ -49,13 +49,13 @@ Meanwhile, what is more important is how to further synergize these "passive" an
     <img src="{{ '/assets/img/featuredwork/04-SE/04_GroupActive.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:100%;  margin: 0 auto;">
 </div>
 
-**Synergy!**
+**Synergy**
 <div style="text-align:center;">
     <img src="{{ '/assets/img/featuredwork/04-SE/04_Groupsynergy.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
 </div>
 
 
-## INDIVIDUAL ZOOM-IN: THE ENERGY HUB
+## PILOT ZOOM-IN: THE ENERGY HUB
 
 **Strategies**
 
@@ -67,7 +67,7 @@ Based on the joint design framework, the basic strategies for the energy hub are
 
 **Seeing Energy?A toolbox?**
 
-These tools allow people to not only see energy, but also to feel it and engage with it in playful and innovative ways, enhancing their awareness and understanding of its critical role.
+To go deeper of the concept of "seeing energy", a toolbox was invented, which includes a range of interactive installations and facilities. These tools allow people to not only see energy, but also to feel it and engage with it in playful and innovative ways, enhancing their awareness and understanding of its critical role.
 
 <div style="text-align:center;">
      <img src="{{ '/assets/img/featuredwork/04-SE/04_toolbox.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:70%; margin: 0 auto;">
@@ -80,17 +80,17 @@ These tools allow people to not only see energy, but also to feel it and engage 
 
 **3D**
 <div style="text-align:center;">
-     <img src="{{ '/assets/img/featuredwork/04-SE/04_3D.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:70%; margin: 0 auto;">
+     <img src="{{ '/assets/img/featuredwork/04-SE/04_3D.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%; margin: 0 auto;">
 </div>
 
 **Sections**
 
 <div style="text-align:center;">
-     <img src="{{ '/assets/img/featuredwork/04-SE/04_Nano01.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:70%; margin: 0 auto;">
+     <img src="{{ '/assets/img/featuredwork/04-SE/04_Nano01.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%; margin: 0 auto;">
 </div>
 
 <div style="text-align:center;">
-     <img src="{{ '/assets/img/featuredwork/04-SE/04_Nano02.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:70%; margin: 0 auto;">
+     <img src="{{ '/assets/img/featuredwork/04-SE/04_Nano02.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%; margin: 0 auto;">
 </div>
 
 ## Acknowledgement
