@@ -68,7 +68,7 @@ sitemap:
 		Energy Hub of TU Delft
 	<tr>	
 	<td style="text-align:center;vertical-align: top;  height: 400px"><centre>
-		<a href="{{ '/blog' | prepend: site.baseurl }}">
+		<a href="{{ '/05MUC' | prepend: site.baseurl }}">
 		<img src="{{ '/assets/img/featuredwork/Project05_MUC.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover ;width:auto; max-width:100%;"> <font size=4> Inside Out <br> <font size=2> Recalibrating Munich Metropolitan Region   
 	<td style="text-align:center;vertical-align: top;  height: 400px"><centre>
 		<a href="{{ '/blog' | prepend: site.baseurl }}">
