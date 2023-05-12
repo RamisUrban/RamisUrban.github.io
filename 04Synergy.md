@@ -51,7 +51,7 @@ Meanwhile, what is more important is how to further synergize these "passive" an
 
 **Synergy!**
 <div style="text-align:center;">
-    <img src="{{ '/assets/img/featuredwork/04-SE/04_Groupsynergy.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:70%;  margin: 0 auto;">
+    <img src="{{ '/assets/img/featuredwork/04-SE/04_Groupsynergy.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
 </div>
 
 
