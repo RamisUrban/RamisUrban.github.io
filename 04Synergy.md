@@ -11,7 +11,7 @@ categories: ["Urban Design"]
 
 Environmental Technology & Design，AR1U100 R and D Studio at TU Delft  
 Time: Oct.2020 - Jan. 2021  
-Contributor: Jiaqi Wang, Lotte van Oevelen, Bjarne van der Drift and Florian Wilkesmann  
+Other Contributors: Lotte van Oevelen, Bjarne van der Drift and Florian Wilkesmann  
 Project location: Delft, the Netherlands  
 
 **Project Background**
@@ -96,6 +96,6 @@ To go deeper of the concept of "seeing energy", a toolbox was invented, which in
 
 ## Acknowledgement
 
-*The Energy Hub project is part of the joint design work titled "Back to Back" by the "Syenergy Urban Design" team. It is a coursework project for the "Designing Urban Environment" module, supervised by Dr Luca Iuorio and Dr Marjolein Pijpers-van Esch. The joint design team is composed of three TU Delft master's students Lotte van Oevelen, Jiaqi Wang and Bjarne van der Drift, and the "Energy Hub" is one of the three pilot projects created by Jiaqi Wang individually based on the joint design framework. Also, before the design stage of the project, the site analysis and technical profile were documented in detail by the design team together with Florian Wilkesmann from the Department of Civil Engineering & Geosciences. If there is any interest to get to know about the full project, please click to download the full report.
+*The Energy Hub project is part of the joint design work titled "Back to Back" by the "Syenergy Urban Design" team. It is a coursework project for the "Designing Urban Environment" module, supervised by Dr Luca Iuorio and Dr Marjolein Pijpers-van Esch. The joint design team is composed of three TU Delft master's students Lotte van Oevelen, Jiaqi Wang and Bjarne van der Drift, and the "Energy Hub" is one of the three pilot projects created by Jiaqi Wang individually based on the joint design framework. Also, before the design stage of the project, the site analysis and technical profile were documented in detail by the design team together with Florian Wilkesmann from the Department of Civil Engineering & Geosciences.*
 
-All the visualisations in the 'INDIVIDUAL ZOOM-IN: THE ENERGY HUB' part is created by Jiaqi Wang.
+*All the visualisations in the 'PILOT ZOOM-IN: THE ENERGY HUB' part is created by Jiaqi Wang.*
