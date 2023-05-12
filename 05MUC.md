@@ -35,7 +35,5 @@ By performing a K-mean cluster analysis, seven clusters of the nodes are identif
 ## Acknowledgement
 *The images above are created by Jiaqi Wang based on the findings of the team research project.*
 
-The full research article can be seen on:
-Urban Sci. 2020, 4(1), 2; https://doi.org/10.3390/urbansci4010002
-
+The full research article can be read from [Urban Science](https://doi.org/10.3390/urbansci4010002)
 
