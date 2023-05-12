@@ -8,13 +8,12 @@ categories: ["Urban Design"]
 <img src="{{ '/assets/img/featuredwork/04-SE/04_Heading.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:100%; margin: 0 auto;">
 </div>
 
+**Project Background**
 
-Environmental Technology & Design，AR1U100 R and D Studio at TU Delft  
+AR1U100 R and D Studio | Environmental Technology & Design | TU Delft  
 Time: Oct.2020 - Jan. 2021  
 Other Contributors: Lotte van Oevelen, Bjarne van der Drift and Florian Wilkesmann  
 Project location: Delft, the Netherlands  
-
-**Project Background**
 
 *The Energy Hub project part of the joint design work titled "Back to Back" for the "Designing Urban Environment" module at TU Delft.*
 
