@@ -17,6 +17,10 @@ sitemap:
 
 <p> <font size=5><strong>  My Featured Work 
 
+<div id="category01">
+	<font size=5><b><font color="grey">Quantitative Urban Studies</font></b></font>
+<br>
+
 <table>
  	<tr>
 	<td style="text-align:center;vertical-align: top; height: 400px">
@@ -28,7 +32,18 @@ sitemap:
 			Transit-Induced-Gentrification? 
 			<br> 
 		<font size=2> 
-			 A study based on East London
+			 A study based on East London			 	  
+	<tr>
+	<td style="text-align:center;vertical-align: top;  height: 400px"><centre>
+		<a href="{{ '/05MUC' | prepend: site.baseurl }}">
+		<img src="{{ '/assets/img/featuredwork/Project05_MUC.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover ;width:auto; max-width:100%;"> <font size=4> Inside Out <br> <font size=2> Recalibrating Munich Metropolitan Region   
+
+<div id="category01">
+	<font size=5><b><font color="grey">Strategic and Trans-scalar Planning</font></b></font>
+<br>
+
+<table>	
+	<tr>
 	<td style="text-align:center;vertical-align: top; height: 400px">
 		<centre>
 		<a href="{{ '/02Livewithwater' }}">
@@ -38,8 +53,18 @@ sitemap:
 			Live with Water 
 			<br> 
 			<font size=2> 
-			Using Pattern Language as a Research and Co-design Approach   
-	<tr>	
+			Using Pattern Language as a Research and Co-design Approach 
+	<td style="text-align:center;vertical-align: top; height: 400px">
+		<centre>
+		<a href="{{ '/blog' | prepend: site.baseurl }}">
+		<img src="{{ '/assets/img/featuredwork/Project03_ZH.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto; max-width:100%;"> <font size=4> Liv/fe Transition <br> <font size=2> A Circular Agri-food Sector in South Holland   		
+	<tr>
+
+<div id="category01">
+	<font size=5><b><font color="grey">Urban Design and Architecture</font></b></font>
+<br>
+
+<table>
 	<td style="text-align:center;vertical-align: top; height: 400px">
 	<centre>
 		<a href="{{ '/blog' | prepend: site.baseurl }}">
@@ -51,14 +76,11 @@ sitemap:
 		Live with Water 
 		<br>
 		 <font size=2> 
-		 A Systemic Strategy for the Lake Chao Basin   
+		 2030 Vision for Shangpai Town, Hefei  
 	<td style="text-align:center;vertical-align: top; height: 400px"><centre>
 		<a href="{{ '/02Livewithwater' }}">
 		<img src="{{ '/assets/img/featuredwork/Project052_Airport.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto; max-width:100%;"> <font size=4> Hallbergmoos 2050 <br> <font size=2> Green Airport City of Munich   
 	<tr>
-    <td style="text-align:center;vertical-align: top; height: 400px"><centre>
-		<a href="{{ '/blog' | prepend: site.baseurl }}">
-		<img src="{{ '/assets/img/featuredwork/Project03_ZH.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto; max-width:100%;"> <font size=4> Liv/fe Transition <br> <font size=2> A Circular Agri-food Sector in South Holland   
 	<td style="text-align:center;vertical-align: top;  height: 400px"><centre>
 		<a href="{{ '/04Synergy' | prepend: site.baseurl }}">
 		<img src="{{ '/assets/img/featuredwork/Project04_Synergy.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover ;width:auto; max-width:100%;"> 
@@ -67,9 +89,6 @@ sitemap:
 		<font size=2> 
 		Energy Hub of TU Delft
 	<tr>	
-	<td style="text-align:center;vertical-align: top;  height: 400px"><centre>
-		<a href="{{ '/05MUC' | prepend: site.baseurl }}">
-		<img src="{{ '/assets/img/featuredwork/Project05_MUC.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover ;width:auto; max-width:100%;"> <font size=4> Inside Out <br> <font size=2> Recalibrating Munich Metropolitan Region   
 	<td style="text-align:center;vertical-align: top;  height: 400px"><centre>
 		<a href="{{ '/blog' | prepend: site.baseurl }}">
 		<img src="{{ '/assets/img/featuredwork/Project06_ZG.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto; max-width:100%;"> <font size=4> Boundless Zhang Garden <br> <font size=2> The Regeneration of West Nanjing Road District
