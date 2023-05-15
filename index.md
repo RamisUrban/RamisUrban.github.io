@@ -6,6 +6,31 @@ sitemap:
   priority: 0.9
 ---
 
+<style>
+  table {
+    max-width: 100%;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  @media (max-width: 768px) {
+    tr {
+      display: block;
+      height: auto;
+    }
+
+    td {
+      display: block;
+      height: auto;
+      text-align: center;
+    }
+  }
+</style>
+
+
 <img src="{{ '/assets/img/untitledpenguin.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
