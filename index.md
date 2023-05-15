@@ -18,9 +18,9 @@ sitemap:
 <p> <font size=5><strong>  My Featured Work 
 
 <table>
-	<tr>
+	<tr style="height: 50px;">
 	<font size=4><font color="grey">Quantitative Urban Studies</font></font>
- 	<tr style="height: 430px;">
+ 	<tr>
 	<td style="text-align:center;vertical-align: top; height: 400px">
 		<centre>
 	  <a href="{{ '/blog' | prepend: site.baseurl}}">
