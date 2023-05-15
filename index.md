@@ -41,7 +41,7 @@ sitemap:
 
 <table>	
 	<tr>
-	<font size=4><font color="grey">Strategic and Trans-scalar Planning</font></font>
+	<font size=4><font color="grey">Strategic Planning</font></font>
 	<tr style="height: 450px;">
 	<td style="text-align:center;vertical-align: top; height: 400px">
 		<centre>
@@ -55,11 +55,12 @@ sitemap:
 			Pattern Language as a Co-design Approach 
 	<td style="text-align:center;vertical-align: top; height: 400px">
 		<centre>
-		<a href="{{ '/blog' | prepend: site.baseurl }}">
-		<img src="{{ '/assets/img/featuredwork/Project03_ZH.jpg' | prepend: site.baseurl }}" style="height:300px; object-fit: cover; width:auto; max-width:100%;"> <font size=4> Liv/fe Transition <br> <font size=2> A Circular Agri-food Sector in South Holland   		
+		<a href="{{ '/03ZuidHolland' | prepend: site.baseurl }}">
+		<img src="{{ '/assets/img/featuredwork/Project03_ZH.jpg' | prepend: site.baseurl }}" 
+		onmouseover="this.src='/assets/img/featuredwork/Project03_ZH-map.jpg'" 
+		onmouseout="this.src='/assets/img/featuredwork/Project03_ZH.jpg'"  
+		style="height:300px; object-fit: cover; width:auto; max-width:100%;"> <font size=4> Liv/fe Transition <br> <font size=2> A Circular Agri-food Sector in South Holland   		
 	<tr>
-
-
 
 <table>
 	<tr>
