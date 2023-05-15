@@ -28,7 +28,7 @@ Confronted by both the urgent climate pressure and the growing dairy farmers' pr
 
 **Why Livestock Farming Matters?**  
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-self: flex-start;">
    <div style="flex: 1;">
       <img src="{{ '/assets/img/featuredwork/03-ZH/03-problem.jpg' | prepend: site.baseurl }}" style="height: auto; object-fit: cover; width: 60%;">
    </div>
