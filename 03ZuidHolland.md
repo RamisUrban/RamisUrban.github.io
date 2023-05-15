@@ -73,11 +73,11 @@ Based on the circular economy concept, a toolbox is developed, which offers mult
 
 Along with the interventions above, three rings of transition are proposed territorially to accommodate more sustainable ways of consumption and production:
 
-**Diet Transition**   
+<span style="color:#2D9F7C"> **Diet Transition**</span>
 This happens in rural areas where spatial landscapes are gradually shaped by a more green diet.   
-**Attitude Transition**   
+<span style="color:#EC6E67"> **Attitude Transition**  </span> 
 How meat and dairy are produced become more accessible to urban dwellers.   
-**Technical Transition**  
+<span style="color:#F9CD6A"> **Technical Transition**</span>  
 From port to the greenhouses production base, Dutch industrial sites would shift from an exporter of goods to an exporter of knowledge while supplying it with clean energy, creating a better South Holland while benefiting other countries.  
 
 <style>
@@ -128,17 +128,17 @@ Note: You can move the cursor over the image to see the flows.
 
 The vision map shows how the previous three rings of transition can happen across the South-Holland Province and interact with each other, which potentially would leverage a value change among the consumers and producers and help the agrifood sector to transit towards a sustainable and circular future in the whole region. 
 
-**Impression: Urban-Attitude Transition**
+<span style="color:#EC6E67"> **Urban Impression: Attitude Transition**  </span> 
 <div style="text-align:center;">
    <img src="{{ '/assets/img/featuredwork/03-ZH/03-impression-urban.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
 </div>
 
-**Impression: Rural-Diet Transition** 
+<span style="color:#2D9F7C">**Rural Impression: Diet Transition** </span>
 <div style="text-align:center;">
    <img src="{{ '/assets/img/featuredwork/03-ZH/03-impression-farm.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
 </div>
 
-**Impression: Port-Technical Transition**
+<span style="color:#F9CD6A"> **Impression: Port-Technical Transition**</span>  
 <div style="text-align:center;">
    <img src="{{ '/assets/img/featuredwork/03-ZH/03-impression-port.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
 </div>
