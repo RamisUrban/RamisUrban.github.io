@@ -92,6 +92,23 @@ From port to the greenhouses production base, Dutch industrial sites would shift
    <img src="{{ '/assets/img/featuredwork/03-ZH/tech-typo.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:60%;  margin: 0 auto;">
 </div>
 
+<style>
+   .image-container {
+      display: flex;
+   }
+
+   .image-container img {
+      width: 33.33%;
+      height: auto;
+   }
+</style>
+
+<div class="image-container">
+   <img src="{{ '/assets/img/featuredwork/03-ZH/diet-typo.jpg' | prepend: site.baseurl }}">
+   <img src="{{ '/assets/img/featuredwork/03-ZH/att-typo.jpg' | prepend: site.baseurl }}">
+   <img src="{{ '/assets/img/featuredwork/03-ZH/tech-typo.jpg' | prepend: site.baseurl }}">
+</div>
+
 These three rings will further synergize with each other and leads to new production-consumption clusters:  
 
 <div style="text-align:center;">
