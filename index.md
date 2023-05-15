@@ -69,7 +69,7 @@ sitemap:
 	<centre>
 		<a href="{{ '/blog' | prepend: site.baseurl }}">
 			<img src="{{ '/assets/img/featuredwork/Project02_LwW.jpg' | prepend: site.baseurl }}" 
-			style="height:300px; object-fit: cover; max-width:100%;"> 
+			style="height:300px; object-fit:cover;width:auto;max-width:100%;"> 
 		<font size=4> 
 		Live with Water 
 		<br>
@@ -77,7 +77,7 @@ sitemap:
 		 2030 Vision for Shangpai Town, Hefei 
 	<td style="text-align:center;vertical-align: top;  height: 400px"><centre>
 		<a href="{{ '/04Synergy' | prepend: site.baseurl }}">
-		<img src="{{ '/assets/img/featuredwork/Project04_Synergy.jpg' | prepend: site.baseurl }}" style="height:height:300px; object-fit: cover ;width:auto; max-width:100%;"> 
+		<img src="{{ '/assets/img/featuredwork/Project04_Synergy.jpg' | prepend: site.baseurl }}" style="height:300px; object-fit: cover;width:auto; max-width:100%;"> 
 		<font size=4> Seeing Energy? 
 		<br> 
 		<font size=2> 
