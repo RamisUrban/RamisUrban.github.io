@@ -5,9 +5,8 @@ subtitle: "to a healthy agriculture sector with livestock as an integral part of
 categories: ["Strategic Planning"]
 ---
 <div style="text-align:center;">
-<img src="{{ '/assets/img/featuredwork/04-SE/04_Heading.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:100%; margin: 0 auto;">
+   <img src="{{ '/assets/img/featuredwork/03-ZH/03-header.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%; margin: 0 auto;">
 </div>
-
 
 AR2U086 R&D Studio | Spatial Strategies for the Global Metropolis Coursework
 AR2U088 | Research and Design Methodology for Urbanism Coursework
@@ -17,9 +16,7 @@ Authors: Jannine de Jong, Jiaqi Wang, Carmen Jansen op de Haar, Max Corbeek and 
 Project supervisors: Dr Diego Andres Sepulveda Carmona, Dr Luisa Calabrese, Dr Marcin Dabrowski 
 Project location: South-Holland Province, the Netherlands  
 
-<div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/03-ZH/03_header.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%; margin: 0 auto;">
-</div>
+
 
 ## INTRODUCTION
 
@@ -29,7 +26,7 @@ Confronted by both the urgent climate pressure and the growing dairy farmers' pr
 **Why Livestock Farming matters?**  
 
 <div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/03-ZH/03_problem.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%; margin: 0 auto;">
+   <img src="{{ '/assets/img/featuredwork/03-ZH/03-problem.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%; margin: 0 auto;">
 </div>
 
 South Holland is the most densely populated area in the Netherlands and has a long tradition of livestock farming due to the peat soil condition. Yet, with the modern segregation between urban areas and their hinterlands, there is increasing detachment between livestock producers and consumers. Meanwhile, the concerns towards the emerging climate issues have even led to growing criticism towards the Dutch livestock sectors. This has brought local dairy farmers into a dilemma, who felt treated injustice, and whose reality is growing ignored by the urban population due to the physical and conceptual disconnect that exists. Being aware of these issues, instead of proposing further blunt and unjust policy, this project aims to reattach importance to the role of livestock farming in South Holland's future and add new value to this sector, and thus to make sure no actors are lagging behind in the sustainable transition. 
@@ -37,7 +34,7 @@ South Holland is the most densely populated area in the Netherlands and has a lo
 **Our Concept**  
 
 <div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/03-ZH/03_concept-01.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
+   <img src="{{ '/assets/img/featuredwork/03-ZH/03-concept-01.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
 </div>
 
 At the core of the project is our proposed concept of "value change". This value change is driven by the circular economy model and is further based upon the three pillars of sustainability: social, environmental and economic. Through this value change, we want to reshape the relationship between producers and consumers and to achieve justice, both spatial and social.   
@@ -49,7 +46,7 @@ At the core of the project is our proposed concept of "value change". This value
 The current chains in the agrifood sectors remain linear. However, there is a large potential for closing the loop, especially if cooperation with the energy sector and waste management sector as well as a collaboration within the agri-food sector is considered. A shorten in the supply chain is also essential, where urban farming and on-site consumption can play a role in further circularity. 
 
 <div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/03-ZH/03_chain.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
+   <img src="{{ '/assets/img/featuredwork/03-ZH/03-chain.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
 </div>
 
 **The Toolbox**
@@ -57,13 +54,13 @@ The current chains in the agrifood sectors remain linear. However, there is a la
 Based on the circular economy concept, a toolbox is developed, which offers multiple interventions under five key principles that aim at relinking the consumers and producers.  
 
 <div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/03-ZH/03_Tool.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
+   <img src="{{ '/assets/img/featuredwork/03-ZH/03-Tool.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
 </div>
 
 **The Territorial Strategy**  
 
 <div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/03-ZH/03_Transition.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
+   <img src="{{ '/assets/img/featuredwork/03-ZH/03-Transition.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
 </div>
 
 Along with the interventions above, three rings of transition are proposed territorially to accommodate more sustainable ways of consumption and production.
@@ -71,33 +68,33 @@ Along with the interventions above, three rings of transition are proposed terri
 **Diet Transition** - this happens in rural areas where spatial landscapes are gradually shaped by a more green diet.   
 
 <div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/03-ZH/diet-typo.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
+   <img src="{{ '/assets/img/featuredwork/03-ZH/diet-typo.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:80%;  margin: 0 auto;">
 </div>
 
 **Attitude Transition** - how meat and dairy are produced become more accessible to urban dwellers. 
 <div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/03-ZH/att-typo.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
+   <img src="{{ '/assets/img/featuredwork/03-ZH/att-typo.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:80%;  margin: 0 auto;">
 </div>
 
 **Technical Transition**- from port to the greenhouses production base, Dutch industrial sites would shift from an exporter of goods to an exporter of knowledge while supplying it with clean energy, creating a better South Holland while benefiting other countries.  
 
 <div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/03-ZH/tech-typo.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
+   <img src="{{ '/assets/img/featuredwork/03-ZH/tech-typo.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:80%;  margin: 0 auto;">
 </div>
 
 These three rings will further synergize with each other and leads to new production-consumption clusters:  
 
 <div style="text-align:center;">
 <img src="{{ '/assets/img/featuredwork/03-ZH/03-Dairy-color.jpg' | prepend: site.baseurl }}" 
-		onmouseover="this.src='/assets/img/featuredwork/03-Dairy-flow.jpg'" 
-		onmouseout="this.src='/assets/img/featuredwork/03-Dairy-color.jpg'"  
+		onmouseover="this.src='/assets/img/featuredwork/03-ZH/03-Dairy-flow.jpg'" 
+		onmouseout="this.src='/assets/img/featuredwork/03-ZH/03-Dairy-color.jpg'"  
           style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
 </div>
 
 <div style="text-align:center;">
 <img src="{{ '/assets/img/featuredwork/03-ZH/03-agro-color.jpg' | prepend: site.baseurl }}" 
-		onmouseover="this.src='/assets/img/featuredwork/03-agro-flow.jpg'" 
-		onmouseout="this.src='/assets/img/featuredwork/03-agro-color.jpg'"  
+		onmouseover="this.src='/assets/img/featuredwork/03-ZH/03-agro-flow.jpg'" 
+		onmouseout="this.src='/assets/img/featuredwork/03-ZH/03-agro-color.jpg'"  
           style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
 </div>
 
@@ -122,7 +119,7 @@ The vision map shows how the previous three rings of transition can happen acros
 
 **Impression: Port-Technical Transition**
 <div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/03-impression-port.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
+   <img src="{{ '/assets/img/featuredwork/03-ZH/03-impression-port.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
 </div>
 
 ## TRANSITION TIMELINE ## 
