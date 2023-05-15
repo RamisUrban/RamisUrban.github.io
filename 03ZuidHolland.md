@@ -26,7 +26,7 @@ Confronted by both the urgent climate pressure and the growing dairy farmers' pr
 **Why Livestock Farming matters?**  
 
 <div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/03-ZH/03-problem.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:60%; margin: 0 auto;">
+   <img src="{{ '/assets/img/featuredwork/03-ZH/03-problem.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:50%; margin: 0 auto;">
 </div>
 
 South Holland is the most densely populated area in the Netherlands and has a long tradition of livestock farming due to the peat soil condition. Yet, with the modern segregation between urban areas and their hinterlands, there is increasing detachment between livestock producers and consumers. Meanwhile, the concerns towards the emerging climate issues have even led to growing criticism towards the Dutch livestock sectors. This has brought local dairy farmers into a dilemma, who felt treated injustice, and whose reality is growing ignored by the urban population due to the physical and conceptual disconnect that exists. Being aware of these issues, instead of proposing further blunt and unjust policy, this project aims to reattach importance to the role of livestock farming in South Holland's future and add new value to this sector, and thus to make sure no actors are lagging behind in the sustainable transition. 
