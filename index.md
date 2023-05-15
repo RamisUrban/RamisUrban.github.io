@@ -18,7 +18,7 @@ sitemap:
 <p> <font size=5><strong>  My Featured Work 
 
 <div id="category01">
-	<font size=5><b><font color="grey">Quantitative Urban Studies</font></b></font>
+	<font size=4><b><font color="grey">Quantitative Urban Studies</font></b></font>
 <br>
 
 <table>
@@ -39,7 +39,7 @@ sitemap:
 	<tr> 
 
 <div id="category02">
-	<font size=5><b><font color="grey">Strategic and Trans-scalar Planning</font></b></font>
+	<font size=4><b><font color="grey">Strategic and Trans-scalar Planning</font></b></font>
 <br>
 
 <table>	
@@ -61,7 +61,7 @@ sitemap:
 	<tr>
 
 <div id="category03">
-	<font size=5><b><font color="grey">Urban Design and Architecture</font></b></font>
+	<font size=4><b><font color="grey">Urban Design and Architecture</font></b></font>
 <br>
 
 <table>
