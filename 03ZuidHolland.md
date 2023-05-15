@@ -17,6 +17,7 @@ categories: ["Strategic Planning"]
    Authors: Jannine de Jong, Jiaqi Wang, Carmen Jansen op de Haar, Max Corbeek and Ohad Shapiro  <br>
    Project supervisors: Dr Diego Andres Sepulveda Carmona, Dr Luisa Calabrese, Dr Marcin Dabrowski  <br>
    Project location: South-Holland Province, the Netherlands  <br>
+   </font></font>
 </div>
 <br>
 
@@ -69,27 +70,14 @@ Based on the circular economy concept, a toolbox is developed, which offers mult
    <img src="{{ '/assets/img/featuredwork/03-ZH/03-Transition.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
 </div>
 
-Along with the interventions above, three rings of transition are proposed territorially to accommodate more sustainable ways of consumption and production.
+Along with the interventions above, three rings of transition are proposed territorially to accommodate more sustainable ways of consumption and production:
 
 **Diet Transition**   
 This happens in rural areas where spatial landscapes are gradually shaped by a more green diet.   
-
-<div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/03-ZH/diet-typo.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:60%;  margin: 0 auto;">
-</div>
-
 **Attitude Transition**   
 How meat and dairy are produced become more accessible to urban dwellers. 
-<div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/03-ZH/att-typo.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:60%;  margin: 0 auto;">
-</div>
-
 **Technical Transition**  
 From port to the greenhouses production base, Dutch industrial sites would shift from an exporter of goods to an exporter of knowledge while supplying it with clean energy, creating a better South Holland while benefiting other countries.  
-
-<div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/03-ZH/tech-typo.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:60%;  margin: 0 auto;">
-</div>
 
 <style>
    .image-container {
