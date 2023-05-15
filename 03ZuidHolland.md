@@ -18,7 +18,7 @@ Time: Feb.2021 - Apr. 2021
 Authors: Jannine de Jong, Jiaqi Wang, Carmen Jansen op de Haar, Max Corbeek and Ohad Shapiro   
 Project supervisors: Dr Diego Andres Sepulveda Carmona, Dr Luisa Calabrese, Dr Marcin Dabrowski   
 Project location: South-Holland Province, the Netherlands  
-
+</p>
 <br>
 
 ## INTRODUCTION
