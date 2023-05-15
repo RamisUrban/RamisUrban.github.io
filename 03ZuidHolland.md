@@ -8,12 +8,12 @@ categories: ["Strategic Planning"]
    <img src="{{ '/assets/img/featuredwork/03-ZH/03-header.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:60%; margin: 0 auto;">
 </div>
 
-AR2U086 R&D Studio | Spatial Strategies for the Global Metropolis Coursework
+AR2U086 R&D Studio | Spatial Strategies for the Global Metropolis Coursework  
 AR2U088 | Research and Design Methodology for Urbanism Coursework
 Institution: TU Delft  
 Time: Feb.2021 - Apr. 2021  
-Authors: Jannine de Jong, Jiaqi Wang, Carmen Jansen op de Haar, Max Corbeek and Ohad Shapiro 
-Project supervisors: Dr Diego Andres Sepulveda Carmona, Dr Luisa Calabrese, Dr Marcin Dabrowski 
+Authors: Jannine de Jong, Jiaqi Wang, Carmen Jansen op de Haar, Max Corbeek and Ohad Shapiro   
+Project supervisors: Dr Diego Andres Sepulveda Carmona, Dr Luisa Calabrese, Dr Marcin Dabrowski   
 Project location: South-Holland Province, the Netherlands  
 
 
