@@ -85,8 +85,7 @@ sitemap:
 		<font size=4> Seeing Energy? 
 		<br> 
 		<font size=2> 
-		Energy Hub of TU Delft
-	<tr>	
+		Energy Hub of TU Delft	
 	<td style="text-align:center;vertical-align: top;  height: 400px"><centre>
 		<a href="{{ '/blog' | prepend: site.baseurl }}">
 		<img src="{{ '/assets/img/featuredwork/Project06_ZG.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto; max-width:100%;"> <font size=4> Boundless Zhang Garden <br> <font size=2> The Regeneration of West Nanjing Road District
