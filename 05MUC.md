@@ -5,12 +5,16 @@ subtitle: "Recalibrating Munich Metropolitan Region"
 categories: ["Quantitative Urban Studies"]
 ---
 
-Research Project at the Technical University of Munich  
-Time: April.2019 - July. 2018  
-Research Leader: Dr Fabian Wenner   
-Development of the Assessment Tool: Dr Fabian Wenner, Khoi Anh Dang, Alessandro Pedrazzoli, Jiaqi Wang   
-Other Contributors: Melina Hölzl,Magdalena Schmidkunz,Alain Thierstein  
-Project location: Munich, Germany   
+<div id="project-info">
+	<font size=2> <font color="grey">
+Research Project at the Technical University of Munich  <br>  
+Time: April.2019 - July. 2018  <br>  
+Research Leader: Dr Fabian Wenner   <br>  
+Development of the Assessment Tool: Dr Fabian Wenner, Khoi Anh Dang, Alessandro Pedrazzoli, Jiaqi Wang   <br>  
+Other Contributors: Melina Hölzl,Magdalena Schmidkunz,Alain Thierstein  <br>  
+Project location: Munich, Germany   <br>  
+   </font></font>
+</div>
 
 ## Introduction
 

@@ -9,11 +9,15 @@ categories: ["Urban Design & Architecture"]
 </div>
 
 
-Environment and Architecture Design Coursework
-Institute: Tongji University  
-Time: February.2018 - June. 2018  
-Design Team: Jiaqi Wang & Xiyan Yang  
-Project location: Shanghai, China  
+<div id="project-info">
+	<font size=2> <font color="grey">
+Environment and Architecture Design Coursework<br>  
+Institute: Tongji University  <br>  
+Time: February.2018 - June. 2018  <br>  
+Design Team: Jiaqi Wang & Xiyan Yang  <br>  
+Project location: Shanghai, China  <br>  
+   </font></font>
+</div>
 
 ## Context
 
