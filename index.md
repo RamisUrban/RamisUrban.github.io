@@ -19,7 +19,7 @@ sitemap:
 
 <table>
 	<tr>
-	<font size=4><b><font color="grey">Quantitative Urban Studies</font></b></font>
+	<font size=4><font color="grey">Quantitative Urban Studies</font></font>
  	<tr>
 	<td style="text-align:center;vertical-align: top; height: 400px">
 		<centre>
@@ -39,7 +39,7 @@ sitemap:
 
 <table>	
 	<tr>
-	<font size=4><b><font color="grey">Strategic and Trans-scalar Planning</font></b></font>
+	<font size=4><font color="grey">Strategic and Trans-scalar Planning</font></font>
 	<tr>
 	<td style="text-align:center;vertical-align: top; height: 400px">
 		<centre>
@@ -61,7 +61,7 @@ sitemap:
 
 <table>
 	<tr>
-	<font size=4><b><font color="grey">Urban Design and Architecture</font></b></font>
+	<font size=4><font color="grey">Urban Design and Architecture</font></font>
 	<tr>
 	<td style="text-align:center;vertical-align: top; height: 400px">
 	<centre>
