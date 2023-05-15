@@ -76,7 +76,7 @@ Along with the interventions above, three rings of transition are proposed terri
 **Diet Transition**   
 This happens in rural areas where spatial landscapes are gradually shaped by a more green diet.   
 **Attitude Transition**   
-How meat and dairy are produced become more accessible to urban dwellers. 
+How meat and dairy are produced become more accessible to urban dwellers.   
 **Technical Transition**  
 From port to the greenhouses production base, Dutch industrial sites would shift from an exporter of goods to an exporter of knowledge while supplying it with clean energy, creating a better South Holland while benefiting other countries.  
 
@@ -100,7 +100,7 @@ From port to the greenhouses production base, Dutch industrial sites would shift
       <img src="{{ '/assets/img/featuredwork/03-ZH/tech-typo.jpg' | prepend: site.baseurl }}"></a>
 </div>
 
-These three rings will further synergize with each other and leads to new production-consumption clusters:  
+These three rings will further synergize with each other and lead to new production-consumption clusters:
 
 <div style="text-align:center;">
 <img src="{{ '/assets/img/featuredwork/03-ZH/03-Dairy-color.jpg' | prepend: site.baseurl }}" 
