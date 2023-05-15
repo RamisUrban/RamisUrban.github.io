@@ -67,8 +67,6 @@ sitemap:
 	<centre>
 		<a href="{{ '/blog' | prepend: site.baseurl }}">
 			<img src="{{ '/assets/img/featuredwork/Project02_LwW.jpg' | prepend: site.baseurl }}" 
-			onmouseover="this.src='/assets/img/featuredwork/Project021_Pattern.jpg'" 
-			onmouseout="this.src='/assets/img/featuredwork/Project02_LwW.jpg'" 
 			style="height:auto; object-fit: cover; width:auto; max-width:100%;"> 
 		<font size=4> 
 		Live with Water 
