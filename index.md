@@ -33,12 +33,12 @@ sitemap:
 			<br> 
 		<font size=2> 
 			 A study based on East London			 	  
-	<tr>
 	<td style="text-align:center;vertical-align: top;  height: 400px"><centre>
 		<a href="{{ '/05MUC' | prepend: site.baseurl }}">
-		<img src="{{ '/assets/img/featuredwork/Project05_MUC.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover ;width:auto; max-width:100%;"> <font size=4> Inside Out <br> <font size=2> Recalibrating Munich Metropolitan Region   
+		<img src="{{ '/assets/img/featuredwork/Project05_MUC.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover ;width:auto; max-width:100%;"> <font size=4> Inside Out <br> <font size=2> Recalibrating Munich Metropolitan Region  
+	<tr> 
 
-<div id="category01">
+<div id="category02">
 	<font size=5><b><font color="grey">Strategic and Trans-scalar Planning</font></b></font>
 <br>
 
@@ -60,7 +60,7 @@ sitemap:
 		<img src="{{ '/assets/img/featuredwork/Project03_ZH.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto; max-width:100%;"> <font size=4> Liv/fe Transition <br> <font size=2> A Circular Agri-food Sector in South Holland   		
 	<tr>
 
-<div id="category01">
+<div id="category03">
 	<font size=5><b><font color="grey">Urban Design and Architecture</font></b></font>
 <br>
 
