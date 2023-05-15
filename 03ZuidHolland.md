@@ -97,7 +97,7 @@ From port to the greenhouses production base, Dutch industrial sites would shift
    }
 
    .image-container img {
-      width: 33.33%;
+      width: 100%;
       height: auto;
    }
 </style>
