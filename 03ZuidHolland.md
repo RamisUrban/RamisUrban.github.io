@@ -7,7 +7,7 @@ categories: ["Strategic Planning"]
 <div style="text-align:center;">
    <img src="{{ '/assets/img/featuredwork/03-ZH/03-header.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:60%; margin: 0 auto;">
 </div>
-<br>
+
 <div id="project-info">
 	<font size=2> <font color="grey">
    AR2U086 R&D Studio | Spatial Strategies for the Global Metropolis Coursework <br>  
