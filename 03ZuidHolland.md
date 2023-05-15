@@ -9,30 +9,6 @@ categories: ["Strategic Planning"]
 </div>
 
 
-
-Key words: South-Holland, circular agriculture, value change, transitions, diet, technical, attitude, stakeholders
-
-April 7, 2021
-
-
-Technical University of Delft
-Faculty of Architecture and the Built Environment
-MSc2 Architecture, Urbanism and Building Sciences
-Track: Urbanism 2020/2021, Q3
-
-
-
-Authors:
-Jannine de Jong - 4672801 j.dejong-14@student.tudelf.nl
-Carmen Jansen op de Haar - 4482034 - C.C.A.JansenopdeHaar@student.tudelft.net
-Ohad Shapiro 5235324 o.y.shapiro@student.tudelft.nl
-Jiaqi Wang - 5216540 J.Wang-51@student.tudelft.nl
-Max Corbeek - 4570561 M.Corbeek@student.tudelft.nl
-
-
-
-Disclaimer:
-
 **Project Background**
 
 AR2U086 R&D Studio | Spatial Strategies for the Global Metropolis 

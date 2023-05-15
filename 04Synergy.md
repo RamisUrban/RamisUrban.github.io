@@ -10,7 +10,8 @@ categories: ["Urban Design"]
 
 **Project Background**
 
-AR1U100 R and D Studio | Environmental Technology & Design | TU Delft  
+AR1U100 R and D Studio | Environmental Technology & Design 
+Institution: TU Delft   
 Time: Oct.2020 - Jan. 2021  
 Other Contributors: Lotte van Oevelen, Bjarne van der Drift and Florian Wilkesmann  
 Project location: Delft, the Netherlands  

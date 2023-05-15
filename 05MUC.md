@@ -2,7 +2,7 @@
 layout: page
 title:  "Inside Out"
 subtitle: "Recalibrating Munich Metropolitan Region" 
-categories: ["Urban Studies"]
+categories: ["Quantitative Urban Studies"]
 ---
 
 Research Project at the Technical University of Munich  
