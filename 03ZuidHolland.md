@@ -30,7 +30,7 @@ Confronted by both the urgent climate pressure and the growing dairy farmers' pr
 
 <div style="display: flex; align-self: flex-start;">
    <div style="flex: 1;">
-      <img src="{{ '/assets/img/featuredwork/03-ZH/03-problem.jpg' | prepend: site.baseurl }}" style="height: auto; object-fit: cover; width: 60%;">
+      <img src="{{ '/assets/img/featuredwork/03-ZH/03-problem.jpg' | prepend: site.baseurl }}" style="height: auto; object-fit: cover; width: 80%;">
    </div>
    <div style="flex: 1;">
       <p>South Holland is the most densely populated area in the Netherlands and has a long tradition of livestock farming due to the peat soil condition. Yet, with the modern segregation between urban areas and their hinterlands, there is increasing detachment between livestock producers and consumers. Meanwhile, the concerns towards the emerging climate issues have even led to growing criticism towards the Dutch livestock sectors. This has brought local dairy farmers into a dilemma, who felt treated injustice, and whose reality is growing ignored by the urban population due to the physical and conceptual disconnect that exists. Being aware of these issues, instead of proposing further blunt and unjust policy, this project aims to reattach importance to the role of livestock farming in South Holland's future and add new value to this sector, and thus to make sure no actors are lagging behind in the sustainable transition. </p>
@@ -61,7 +61,8 @@ The current chains in the agrifood sectors remain linear. However, there is a la
 Based on the circular economy concept, a toolbox is developed, which offers multiple interventions under five key principles that aim at relinking the consumers and producers.  
 
 <div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/03-ZH/03-tool.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
+   <a href="{{ '/assets/img/featuredwork/03-ZH/03-tool.jpg' | prepend: site.baseurl }}"> 
+   <img src="{{ '/assets/img/featuredwork/03-ZH/03-tool.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:80%;  margin: 0 auto;"> </a>
 </div>
 
 **The Territorial Strategy**  
