@@ -14,7 +14,7 @@ Time: Oct.2020 - Jan. 2021
 Other Contributors: Lotte van Oevelen, Bjarne van der Drift and Florian Wilkesmann  
 Project location: Delft, the Netherlands  
 
-*The Energy Hub project part of the joint design work titled "Back to Back" for the "Designing Urban Environment" module at TU Delft.*
+*The Energy Hub project is part of the joint design work titled "Back to Back" for the "Designing Urban Environment" module at TU Delft.*
 
 <div style="text-align:center;">
    <img src="{{ '/assets/img/featuredwork/04-SE/04_ProjectCompo.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%; margin: 0 auto;">

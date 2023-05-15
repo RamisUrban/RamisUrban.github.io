@@ -25,11 +25,15 @@ Confronted by both the urgent climate pressure and the growing dairy farmers' pr
 
 **Why Livestock Farming matters?**  
 
-<div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/03-ZH/03-problem.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:50%; margin: 0 auto;">
+<div style="display: flex; align-items: center;">
+   <div style="flex: 1;">
+      <img src="{{ '/assets/img/featuredwork/03-ZH/03-problem.jpg' | prepend: site.baseurl }}" style="height: auto; object-fit: cover; width: 50%;">
+   </div>
+   <div style="flex: 1;">
+      <p>South Holland is the most densely populated area in the Netherlands and has a long tradition of livestock farming due to the peat soil condition. Yet, with the modern segregation between urban areas and their hinterlands, there is increasing detachment between livestock producers and consumers. Meanwhile, the concerns towards the emerging climate issues have even led to growing criticism towards the Dutch livestock sectors. This has brought local dairy farmers into a dilemma, who felt treated injustice, and whose reality is growing ignored by the urban population due to the physical and conceptual disconnect that exists. Being aware of these issues, instead of proposing further blunt and unjust policy, this project aims to reattach importance to the role of livestock farming in South Holland's future and add new value to this sector, and thus to make sure no actors are lagging behind in the sustainable transition. </p>
+   </div>
 </div>
 
-South Holland is the most densely populated area in the Netherlands and has a long tradition of livestock farming due to the peat soil condition. Yet, with the modern segregation between urban areas and their hinterlands, there is increasing detachment between livestock producers and consumers. Meanwhile, the concerns towards the emerging climate issues have even led to growing criticism towards the Dutch livestock sectors. This has brought local dairy farmers into a dilemma, who felt treated injustice, and whose reality is growing ignored by the urban population due to the physical and conceptual disconnect that exists. Being aware of these issues, instead of proposing further blunt and unjust policy, this project aims to reattach importance to the role of livestock farming in South Holland's future and add new value to this sector, and thus to make sure no actors are lagging behind in the sustainable transition. 
 
 **Our Concept**  
 
@@ -65,19 +69,20 @@ Based on the circular economy concept, a toolbox is developed, which offers mult
 
 Along with the interventions above, three rings of transition are proposed territorially to accommodate more sustainable ways of consumption and production.
 
-**Diet Transition** - this happens in rural areas where spatial landscapes are gradually shaped by a more green diet.   
+**Diet Transition**   
+This happens in rural areas where spatial landscapes are gradually shaped by a more green diet.   
 
 <div style="text-align:center;">
    <img src="{{ '/assets/img/featuredwork/03-ZH/diet-typo.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:60%;  margin: 0 auto;">
 </div>
 
-**Attitude Transition** 
+**Attitude Transition**   
 How meat and dairy are produced become more accessible to urban dwellers. 
 <div style="text-align:center;">
    <img src="{{ '/assets/img/featuredwork/03-ZH/att-typo.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:60%;  margin: 0 auto;">
 </div>
 
-**Technical Transition**
+**Technical Transition**  
 From port to the greenhouses production base, Dutch industrial sites would shift from an exporter of goods to an exporter of knowledge while supplying it with clean energy, creating a better South Holland while benefiting other countries.  
 
 <div style="text-align:center;">
@@ -100,6 +105,7 @@ These three rings will further synergize with each other and leads to new produc
           style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
 </div>
 
+You can move the cursor over the image to see the flows.
 
 ## VISION
 
