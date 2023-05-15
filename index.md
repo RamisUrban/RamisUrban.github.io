@@ -50,7 +50,7 @@ sitemap:
 			Live with Water 
 			<br> 
 			<font size=2> 
-			Using Pattern Language as a Research and Co-design Approach 
+			Pattern Language as a Co-design Approach 
 	<td style="text-align:center;vertical-align: top; height: 400px">
 		<centre>
 		<a href="{{ '/blog' | prepend: site.baseurl }}">
