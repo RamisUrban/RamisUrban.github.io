@@ -8,9 +8,7 @@ categories: ["Urban Design"]
 <img src="{{ '/assets/img/featuredwork/04-SE/04_Heading.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:100%; margin: 0 auto;">
 </div>
 
-**Project Background**
-
-AR1U100 R and D Studio | Environmental Technology & Design 
+AR1U100 R and D Studio | Environmental Technology & Design Coursework
 Institution: TU Delft   
 Time: Oct.2020 - Jan. 2021  
 Other Contributors: Lotte van Oevelen, Bjarne van der Drift and Florian Wilkesmann  

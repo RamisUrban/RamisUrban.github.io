@@ -9,10 +9,8 @@ categories: ["Strategic Planning"]
 </div>
 
 
-**Project Background**
-
-AR2U086 R&D Studio | Spatial Strategies for the Global Metropolis 
-AR2U088 | Research and Design Methodology for Urbanism 
+AR2U086 R&D Studio | Spatial Strategies for the Global Metropolis Coursework
+AR2U088 | Research and Design Methodology for Urbanism Coursework
 Institution: TU Delft  
 Time: Feb.2021 - Apr. 2021  
 Authors: Jannine de Jong, Jiaqi Wang, Carmen Jansen op de Haar, Max Corbeek and Ohad Shapiro 

@@ -9,7 +9,8 @@ categories: ["Urban Design & Architecture"]
 </div>
 
 
-Environment and Architecture Design Coursework at Tongji University  
+Environment and Architecture Design Coursework
+Institute: Tongji University  
 Time: February.2018 - June. 2018  
 Design Team: Jiaqi Wang & Xiyan Yang  
 Project location: Shanghai, China  
