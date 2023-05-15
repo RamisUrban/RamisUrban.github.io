@@ -20,7 +20,7 @@ sitemap:
 <table>
 	<tr>
 	<font size=4><font color="grey">Quantitative Urban Studies</font></font>
- 	<tr style="height: 450px;">
+ 	<tr style="height: 430px;">
 	<td style="text-align:center;vertical-align: top; height: 400px">
 		<centre>
 	  <a href="{{ '/blog' | prepend: site.baseurl}}">
