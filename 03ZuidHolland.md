@@ -8,6 +8,9 @@ categories: ["Strategic Planning"]
    <img src="{{ '/assets/img/featuredwork/03-ZH/03-header.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:60%; margin: 0 auto;">
 </div>
 
+
+<p> <font size=3>
+
 AR2U086 R&D Studio | Spatial Strategies for the Global Metropolis Coursework  
 AR2U088 | Research and Design Methodology for Urbanism Coursework
 Institution: TU Delft  
@@ -16,18 +19,18 @@ Authors: Jannine de Jong, Jiaqi Wang, Carmen Jansen op de Haar, Max Corbeek and 
 Project supervisors: Dr Diego Andres Sepulveda Carmona, Dr Luisa Calabrese, Dr Marcin Dabrowski   
 Project location: South-Holland Province, the Netherlands  
 
-
+<br>
 
 ## INTRODUCTION
 
 Confronted by both the urgent climate pressure and the growing dairy farmers' protest events, the agrifood sectors in the South-Holland Province need to be reimagined towards a more sustainable and inclusive future. In our proposed strategy, the livestock farming sector would embrace three types of transition: Diet transition, Attitude Transition and Technical Transition. In this way, it can gradually shift away from being an export-based business towards a more local-oriented, circular and innovative sector,  which will re-enter this region's citizens' everyday life in a sustainable manner.
 
 
-**Why Livestock Farming matters?**  
+**Why Livestock Farming Matters?**  
 
 <div style="display: flex; align-items: center;">
    <div style="flex: 1;">
-      <img src="{{ '/assets/img/featuredwork/03-ZH/03-problem.jpg' | prepend: site.baseurl }}" style="height: auto; object-fit: cover; width: 50%;">
+      <img src="{{ '/assets/img/featuredwork/03-ZH/03-problem.jpg' | prepend: site.baseurl }}" style="height: auto; object-fit: cover; width: 90%;">
    </div>
    <div style="flex: 1;">
       <p>South Holland is the most densely populated area in the Netherlands and has a long tradition of livestock farming due to the peat soil condition. Yet, with the modern segregation between urban areas and their hinterlands, there is increasing detachment between livestock producers and consumers. Meanwhile, the concerns towards the emerging climate issues have even led to growing criticism towards the Dutch livestock sectors. This has brought local dairy farmers into a dilemma, who felt treated injustice, and whose reality is growing ignored by the urban population due to the physical and conceptual disconnect that exists. Being aware of these issues, instead of proposing further blunt and unjust policy, this project aims to reattach importance to the role of livestock farming in South Holland's future and add new value to this sector, and thus to make sure no actors are lagging behind in the sustainable transition. </p>
@@ -105,7 +108,9 @@ These three rings will further synergize with each other and leads to new produc
           style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
 </div>
 
-You can move the cursor over the image to see the flows.
+Note: You can move the cursor over the image to see the flows.
+
+<br>
 
 ## VISION
 
@@ -129,6 +134,9 @@ The vision map shows how the previous three rings of transition can happen acros
 <div style="text-align:center;">
    <img src="{{ '/assets/img/featuredwork/03-ZH/03-impression-port.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
 </div>
+
+
+<br>
 
 ## TRANSITION TIMELINE ## 
 
