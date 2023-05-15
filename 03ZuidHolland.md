@@ -68,20 +68,20 @@ Along with the interventions above, three rings of transition are proposed terri
 **Diet Transition** - this happens in rural areas where spatial landscapes are gradually shaped by a more green diet.   
 
 <div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/03-ZH/diet-typo.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:80%;  margin: 0 auto;">
+   <img src="{{ '/assets/img/featuredwork/03-ZH/diet-typo.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:60%;  margin: 0 auto;">
 </div>
 
 **Attitude Transition** 
 How meat and dairy are produced become more accessible to urban dwellers. 
 <div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/03-ZH/att-typo.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:80%;  margin: 0 auto;">
+   <img src="{{ '/assets/img/featuredwork/03-ZH/att-typo.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:60%;  margin: 0 auto;">
 </div>
 
 **Technical Transition**
 From port to the greenhouses production base, Dutch industrial sites would shift from an exporter of goods to an exporter of knowledge while supplying it with clean energy, creating a better South Holland while benefiting other countries.  
 
 <div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/03-ZH/tech-typo.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:80%;  margin: 0 auto;">
+   <img src="{{ '/assets/img/featuredwork/03-ZH/tech-typo.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:60%;  margin: 0 auto;">
 </div>
 
 These three rings will further synergize with each other and leads to new production-consumption clusters:  
