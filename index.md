@@ -25,7 +25,7 @@ sitemap:
 		<centre>
 	  <a href="{{ '/blog' | prepend: site.baseurl}}">
 		<img src="{{ '/assets/img/featuredwork/Project01_Gen.jpg' | prepend: site.baseurl }}" 
-			style="height:300px; object-fit: cover; width:auto; max-width:100%;"> 
+			style="height:auto; object-fit: cover; width:auto; max-width:100%;"> 
 		<font size=4> 
 			Transit-Induced-Gentrification? 
 			<br> 
@@ -33,7 +33,7 @@ sitemap:
 			 A study based on East London			 	  
 	<td style="text-align:center;vertical-align: top;  height: 400px"><centre>
 		<a href="{{ '/05MUC' | prepend: site.baseurl }}">
-		<img src="{{ '/assets/img/featuredwork/Project05_MUC.jpg' | prepend: site.baseurl }}" style="height:300px; object-fit: cover ;width:auto; max-width:100%;"> <font size=4> Inside Out <br> <font size=2> Recalibrating Munich Metropolitan Region  
+		<img src="{{ '/assets/img/featuredwork/Project05_MUC.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover ;width:auto; max-width:100%;"> <font size=4> Inside Out <br> <font size=2> Recalibrating Munich Metropolitan Region  
 	<tr> 
 
 
