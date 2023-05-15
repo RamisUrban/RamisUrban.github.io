@@ -18,7 +18,7 @@ sitemap:
 <p> <font size=5><strong>  My Featured Work 
 
 <table>
-	<tr style="height: 50px;">
+	<tr>
 	<font size=4><font color="grey">Quantitative Urban Studies</font></font>
  	<tr>
 	<td style="text-align:center;vertical-align: top; height: 400px">
