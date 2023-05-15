@@ -79,11 +79,11 @@ sitemap:
 		<font size=4> Seeing Energy? 
 		<br> 
 		<font size=2> 
-		Energy Hub of TU Delft	 
+		Energy Hub of TU Delft	
+	<tr style="height: 450px;"> 
 	<td style="text-align:center;vertical-align: top; height: 400px"><centre>
 		<a href="{{ '/02Livewithwater' }}">
 		<img src="{{ '/assets/img/featuredwork/Project052_Airport.jpg' | prepend: site.baseurl }}" style="height:300px; object-fit: cover; width:auto; max-width:100%;"> <font size=4> Hallbergmoos 2050 <br> <font size=2> Green Airport City of Munich   
-	<tr style="height: 450px;">
 	<td style="text-align:center;vertical-align: top;  height: 400px"><centre>
 		<a href="{{ '/blog' | prepend: site.baseurl }}">
 		<img src="{{ '/assets/img/featuredwork/Project06_ZG.jpg' | prepend: site.baseurl }}" style="height:300px; object-fit: cover; width:auto; max-width:100%;"> <font size=4> Boundless Zhang Garden <br> <font size=2> The Regeneration of West Nanjing Road District
