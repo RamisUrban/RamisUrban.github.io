@@ -6,8 +6,7 @@ categories: ["Strategic Planning"]
 ---
 <div style="text-align:center;">
    <img src="{{ '/assets/img/featuredwork/03-ZH/03-header.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:60%; margin: 0 auto;">
-</div>
-
+</div><br>
 <div id="project-info">
 	<font size=2> <font color="grey">
    AR2U086 R&D Studio | Spatial Strategies for the Global Metropolis Coursework <br>  
@@ -43,7 +42,7 @@ Confronted by both the urgent climate pressure and the growing dairy farmers' pr
 **Our Concept: Value Change**  
 
 <div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/03-ZH/03-concept-01.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:90%;  margin: 0 auto;">
+   <img src="{{ '/assets/img/featuredwork/03-ZH/03-concept-01.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:80%;  margin: 0 auto;">
 </div>
 
 At the core of the project is our proposed concept of "value change". This value change is driven by the circular economy model and is further based upon the three pillars of sustainability: social, environmental and economic. Through this value change, we want to reshape the relationship between producers and consumers and to achieve justice, both spatial and social.   
@@ -75,11 +74,14 @@ Based on the circular economy concept, a toolbox is developed, which offers mult
 
 Along with the interventions above, three rings of transition are proposed territorially to accommodate more sustainable ways of consumption and production:
 
-<span style="color:#2D9F7C"> **Diet Transition**</span>
+<div style="color:#2D9F7C"><b> Diet Transition</b></div>
+<br>
 This happens in rural areas where spatial landscapes are gradually shaped by a more green diet.   
-<span style="color:#EC6E67"> **Attitude Transition**  </span> 
+<div style="color:#EC6E67"><b> Attitude Transition </b></div>
+<br> 
 How meat and dairy are produced become more accessible to urban dwellers.   
-<span style="color:#F9CD6A"> **Technical Transition**</span>  
+<div style="color:#F9CD6A"><b> Technical Transition </b></div> 
+<br>
 From port to the greenhouses production base, Dutch industrial sites would shift from an exporter of goods to an exporter of knowledge while supplying it with clean energy, creating a better South Holland while benefiting other countries.  
 
 <style>
@@ -108,14 +110,14 @@ These three rings will further synergize with each other and lead to new product
 <img src="{{ '/assets/img/featuredwork/03-ZH/03-Dairy-color.jpg' | prepend: site.baseurl }}" 
 		onmouseover="this.src='/assets/img/featuredwork/03-ZH/03-Dairy-flow.jpg'" 
 		onmouseout="this.src='/assets/img/featuredwork/03-ZH/03-Dairy-color.jpg'"  
-          style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
+          style="height:auto; object-fit: cover; width:90%;  margin: 0 auto;">
 </div>
 
 <div style="text-align:center;">
 <img src="{{ '/assets/img/featuredwork/03-ZH/03-agro-color.jpg' | prepend: site.baseurl }}" 
 		onmouseover="this.src='/assets/img/featuredwork/03-ZH/03-agro-flow.jpg'" 
 		onmouseout="this.src='/assets/img/featuredwork/03-ZH/03-agro-color.jpg'"  
-          style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
+          style="height:auto; object-fit: cover; width:90%;  margin: 0 auto;">
 </div>
 
 Note: You can move the cursor over the image to see the flows.
@@ -130,19 +132,19 @@ Note: You can move the cursor over the image to see the flows.
 
 The vision map shows how the previous three rings of transition can happen across the South-Holland Province and interact with each other, which potentially would leverage a value change among the consumers and producers and help the agrifood sector to transit towards a sustainable and circular future in the whole region. 
 
-<span style="color:#EC6E67"> **Urban Impression: Attitude Transition**  </span> 
+<div style="color:#EC6E67"><b> Urban Impression: Attitude Transition </b></div>  
 <div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/03-ZH/03-impression-urban.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
+   <img src="{{ '/assets/img/featuredwork/03-ZH/03-impression-urban.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:80%;  margin: 0 auto;">
 </div>
 
-<span style="color:#2D9F7C">**Rural Impression: Diet Transition** </span>
+<div style="color:#2D9F7C"><b> Rural Impression: Diet Transition </b></div>  
 <div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/03-ZH/03-impression-farm.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
+   <img src="{{ '/assets/img/featuredwork/03-ZH/03-impression-farm.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:80%;  margin: 0 auto;">
 </div>
 
-<span style="color:#F9CD6A"> **Impression: Port-Technical Transition**</span>  
+<div style="color:#F9CD6A"><b> Port Impression:Technical Transition</b></div>  
 <div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/03-ZH/03-impression-port.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
+   <img src="{{ '/assets/img/featuredwork/03-ZH/03-impression-port.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:80%;  margin: 0 auto;">
 </div>
 
 
