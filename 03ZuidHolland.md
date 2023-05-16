@@ -26,6 +26,8 @@ categories: ["Strategic Planning"]
 Confronted by both the urgent climate pressure and the growing dairy farmers' protest events, the agrifood sectors in the South-Holland Province need to be reimagined towards a more sustainable and inclusive future. In our proposed strategy, the livestock farming sector would embrace three types of transition: Diet transition, Attitude Transition and Technical Transition. In this way, it can gradually shift away from being an export-based business towards a more local-oriented, circular and innovative sector,  which will re-enter this region's citizens' everyday life in a sustainable manner.
 
 
+## CONCEPTUALISATION
+
 **Why Livestock Farming Matters?**  
 
 <div style="display: flex; align-self: flex-start;">
@@ -38,7 +40,7 @@ Confronted by both the urgent climate pressure and the growing dairy farmers' pr
 </div>
 
 
-**Our Concept**  
+**Our Concept: Value Change**  
 
 <div style="text-align:center;">
    <img src="{{ '/assets/img/featuredwork/03-ZH/03-concept-01.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:90%;  margin: 0 auto;">
