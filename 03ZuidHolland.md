@@ -74,6 +74,8 @@ Based on the circular economy concept, a toolbox is developed, which offers mult
    <img src="{{ '/assets/img/featuredwork/03-ZH/03-Transition.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
 </div>
 
+Along with the interventions above, three rings of transition are proposed territorially to accommodate more sustainable ways of consumption and production:
+
 <style>
    .image-container {
       display: flex;
@@ -85,6 +87,7 @@ Based on the circular economy concept, a toolbox is developed, which offers mult
    }
 </style>
 
+
 <div class="image-container">
     <a href="{{ '/assets/img/featuredwork/03-ZH/att-typo.jpg' | prepend: site.baseurl }}"> 
       <img src="{{ '/assets/img/featuredwork/03-ZH/diet-typo.jpg' | prepend: site.baseurl }}"> </a>
@@ -94,16 +97,14 @@ Based on the circular economy concept, a toolbox is developed, which offers mult
       <img src="{{ '/assets/img/featuredwork/03-ZH/tech-typo.jpg' | prepend: site.baseurl }}"></a>
 </div>
 
-Along with the interventions above, three rings of transition are proposed territorially to accommodate more sustainable ways of consumption and production:
-
-<div style="color:#2D9F7C; line-height: 1.5;"><b> Diet Transition</b></div>  
-This happens in rural areas where spatial landscapes are gradually shaped by a more green diet.      
-<div style="color:#EC6E67; line-height: 1.5;"><b> Attitude Transition </b></div>  
-How meat and dairy are produced become more accessible to urban dwellers.       
-<div style="color:#F9CD6A; line-height: 1.5;"><b> Technical Transition </b></div> 
-From port to the greenhouses production base, Dutch industrial sites would shift from an exporter of goods to an exporter of knowledge while supplying it with clean energy, creating a better South Holland while benefiting other countries.  
-
 *(Note: You can click to see the full images.)*
+
+<div style="color:#2D9F7C; line-height: 1.3;"><b> Diet Transition</b></div>  
+This happens in rural areas where spatial landscapes are gradually shaped by a more green diet.      
+<div style="color:#EC6E67; line-height: 1.3;"><b> Attitude Transition </b></div>  
+How meat and dairy are produced become more accessible to urban dwellers.       
+<div style="color:#F9CD6A; line-height: 1.3;"><b> Technical Transition </b></div> 
+From port to the greenhouses production base, Dutch industrial sites would shift from an exporter of goods to an exporter of knowledge while supplying it with clean energy, creating a better South Holland while benefiting other countries.  
 
 
 These three rings will further synergize with each other and lead to new production-consumption clusters:
