@@ -6,9 +6,10 @@ categories: ["Strategic Planning"]
 ---
 <div style="text-align:center;">
    <img src="{{ '/assets/img/featuredwork/03-ZH/03-header.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:60%; margin: 0 auto;">
-</div><br>
+</div>
+<br>
 <div id="project-info">
-	<font size=2> <font color="grey">
+	<font size=2> <font color="grey">  
    AR2U086 R&D Studio | Spatial Strategies for the Global Metropolis Coursework <br>  
    AR2U088 | Research and Design Methodology for Urbanism Coursework  <br>
    Institution: TU Delft   <br>
@@ -18,7 +19,7 @@ categories: ["Strategic Planning"]
    Project location: South-Holland Province, the Netherlands  <br>
    </font></font>
 </div>
-
+<br> 
 
 ## INTRODUCTION
 
@@ -74,14 +75,11 @@ Based on the circular economy concept, a toolbox is developed, which offers mult
 
 Along with the interventions above, three rings of transition are proposed territorially to accommodate more sustainable ways of consumption and production:
 
-<div style="color:#2D9F7C"><b> Diet Transition</b></div>
-<br>
-This happens in rural areas where spatial landscapes are gradually shaped by a more green diet.   
-<div style="color:#EC6E67"><b> Attitude Transition </b></div>
-<br> 
-How meat and dairy are produced become more accessible to urban dwellers.   
-<div style="color:#F9CD6A"><b> Technical Transition </b></div> 
-<br>
+<div style="color:#2D9F7C; line-height: 1.5;"><b> Diet Transition</b></div>  
+This happens in rural areas where spatial landscapes are gradually shaped by a more green diet.      
+<div style="color:#EC6E67; line-height: 1.5;"><b> Attitude Transition </b></div>  
+How meat and dairy are produced become more accessible to urban dwellers.       
+<div style="color:#F9CD6A; line-height: 1.5;"><b> Technical Transition </b></div> 
 From port to the greenhouses production base, Dutch industrial sites would shift from an exporter of goods to an exporter of knowledge while supplying it with clean energy, creating a better South Holland while benefiting other countries.  
 
 <style>
@@ -120,7 +118,7 @@ These three rings will further synergize with each other and lead to new product
           style="height:auto; object-fit: cover; width:90%;  margin: 0 auto;">
 </div>
 
-Note: You can move the cursor over the image to see the flows.
+(Note: You can move the cursor over the images to see the flows.)
 
 <br>
 
@@ -132,21 +130,20 @@ Note: You can move the cursor over the image to see the flows.
 
 The vision map shows how the previous three rings of transition can happen across the South-Holland Province and interact with each other, which potentially would leverage a value change among the consumers and producers and help the agrifood sector to transit towards a sustainable and circular future in the whole region. 
 
-<div style="color:#EC6E67"><b> Urban Impression: Attitude Transition </b></div>  
+<div style="color:#EC6E67; line-height: 1.5;"><b> Urban Impression: Attitude Transition </b></div>  <br>
 <div style="text-align:center;">
    <img src="{{ '/assets/img/featuredwork/03-ZH/03-impression-urban.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:80%;  margin: 0 auto;">
 </div>
-
-<div style="color:#2D9F7C"><b> Rural Impression: Diet Transition </b></div>  
+<br>
+<div style="color:#2D9F7C; line-height: 1.5;"><b> Rural Impression: Diet Transition </b></div><br>  
 <div style="text-align:center;">
    <img src="{{ '/assets/img/featuredwork/03-ZH/03-impression-farm.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:80%;  margin: 0 auto;">
 </div>
 
-<div style="color:#F9CD6A"><b> Port Impression:Technical Transition</b></div>  
+<div style="color:#F9CD6A; line-height: 1.5;"><b>Port Impression: Technical Transition</b></div>
 <div style="text-align:center;">
    <img src="{{ '/assets/img/featuredwork/03-ZH/03-impression-port.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:80%;  margin: 0 auto;">
 </div>
-
 
 <br>
 
