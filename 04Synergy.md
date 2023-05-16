@@ -19,11 +19,12 @@ Project location: Delft, the Netherlands  <br>
    </font></font>
 </div>
 
+*The Energy Hub project is part of the joint design work titled "Back to Back" for the "Designing Urban Environment" module at TU Delft.*
+
 <div style="text-align:center;">
    <img src="{{ '/assets/img/featuredwork/04-SE/04_ProjectCompo.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%; margin: 0 auto;">
 </div>
 
-*The Energy Hub project is part of the joint design work titled "Back to Back" for the "Designing Urban Environment" module at TU Delft.*
 
 ## CONCEPTUALISATION
 
