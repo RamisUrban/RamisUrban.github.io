@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Co-Living Co-Learning"
-subtitle: "Student Housing for Tongji University" 
+subtitle: " Campus Complex For Tongji University" 
 categories: ["Architecture"]
 ---
 <div style="text-align:center;">

@@ -112,5 +112,5 @@ sitemap:
 		Redefining Public Space in North Sichuan Road
 	<td style="text-align:center;vertical-align: top;  height: 400px"><centre>
 		<a href="{{ '/08CollegeComplex' | prepend: site.baseurl }}">
-		<img src="{{ '/assets/img/featuredwork/Project08_Campus.jpg' | prepend: site.baseurl }}" style="height:300px; object-fit: cover ;width:auto; max-width:100%;"> <font size=4> Co-Living Co-Innovating? <br> <font size=2> Student Housing For Tongji University
+		<img src="{{ '/assets/img/featuredwork/Project08_Campus.jpg' | prepend: site.baseurl }}" style="height:300px; object-fit: cover ;width:auto; max-width:100%;"> <font size=4> Co-Living Co-Innovating? <br> <font size=2>  Campus Complex For Tongji University
 	
