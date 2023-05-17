@@ -31,7 +31,7 @@ Project location: Shanghai, China  <br>
 
 **Perspective Plan for Co-learning Space**
 <div style="text-align:center;">
-<img src="{{ '/assets/img/featuredwork/08-Stu/08-Plan-01.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:100%; margin: 0 auto;">
+<img src="{{ '/assets/img/featuredwork/08-Stu/08-Plan-01.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:60%; margin: 0 auto;">
 </div>
 
 **Perspective Section for Co-learning Space**
@@ -43,23 +43,23 @@ Project location: Shanghai, China  <br>
 
 **Floor Plan**
 <div style="text-align:center;">
-<img src="{{ '/assets/img/featuredwork/08-Stu/08-Plan-02.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:100%; margin: 0 auto;">
+<img src="{{ '/assets/img/featuredwork/08-Stu/08-Plan-02.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:80%; margin: 0 auto;">
 </div>
 
 **Housing Unit Plan**
 <div style="text-align:center;">
-<img src="{{ '/assets/img/featuredwork/08-Stu/08-Plan-03.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:100%; margin: 0 auto;">
+<img src="{{ '/assets/img/featuredwork/08-Stu/08-Plan-03.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:50%; margin: 0 auto;">
 </div>
 
 **Housing Section Profile**
 <div style="text-align:center;">
-<img src="{{ '/assets/img/featuredwork/08-Stu/08-Sec-profile.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:100%; margin: 0 auto;">
+<img src="{{ '/assets/img/featuredwork/08-Stu/08-Sec-profile.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:60%; margin: 0 auto;">
 </div>
 
 ## RENDERING
 
 <div style="text-align:center;">
-<img src="{{ '/assets/img/featuredwork/08-Stu/08-rendering2.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:100%; margin: 0 auto;">
+<img src="{{ '/assets/img/featuredwork/08-Stu/08-rendering2.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:75%; margin: 0 auto;">
 </div>
 
 
