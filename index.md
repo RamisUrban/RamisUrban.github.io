@@ -92,7 +92,10 @@ sitemap:
 	<td style="text-align:center;vertical-align: top; height: 400px"><centre>
 		<a href="{{ '/05Hallbergmoos' }}">
 		<img src="{{ '/assets/img/featuredwork/Project052_Airport.jpg' | prepend: site.baseurl }}" 
-		style="height:300px; object-fit: cover; width:auto; max-width:100%;"> <font size=4> Hallbergmoos 2050 <br> 
+		onmouseover="this.src='/assets/img/featuredwork/Project052_AirportR.jpg'" 
+			onmouseout="this.src='/assets/img/featuredwork/Project052_Airport.jpg'" 
+		style="height:300px; object-fit: cover; width:auto; max-width:100%;"> 
+		<font size=4> Hallbergmoos 2050 <br> 
 		<font size=2> 
 		Green Airport City of Munich   
 	<td style="text-align:center;vertical-align: top;  height: 400px"><centre>
