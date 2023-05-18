@@ -85,5 +85,5 @@ While it may be challenging to find a definitive answer to these questions, as a
 Date: 2023/05/18
 
 ## Acknowledgement
-*The images above are created by Jiaqi Wang based on the findings of the team research project.*
+*The images above are created by Jiaqi Wang.*
 
