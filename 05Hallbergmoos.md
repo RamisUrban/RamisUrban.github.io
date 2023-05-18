@@ -39,18 +39,17 @@ Although Hallbergmoos is situated outside the administrative boundaries of the c
 
 ## STRATEGY
 
-**Diversity**
-
-<div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/05-MUC/05-Layers.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:70%; margin: 0 auto;">
+**Transit-Oriented Development:Creating Diversity and Density**
+<div style="display: flex; align-self: flex-start;">
+   <div style="flex: 1;">
+       <img src="{{ '/assets/img/featuredwork/05-MUC/05-Layers.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:70%; margin: 0 auto;">
+   </div>
+   <div style="flex: 1;">
+      <img src="{{ '/assets/img/featuredwork/05-MUC/05-Master Plan.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:70%; margin: 0 auto;">
+   </div>
 </div>
 
-**Density**
-<div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/05-MUC/05-Master Plan.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:70%; margin: 0 auto;">
-</div>
-
-**Transit-Oriented Development**
+**Transit-Oriented Development: Urban Fabric and Public Transport System**
 <div style="text-align:center;">
    <img src="{{ '/assets/img/featuredwork/05-MUC/05-Fabric-03.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:60%; margin: 0 auto;">
 </div>
@@ -63,7 +62,7 @@ Although Hallbergmoos is situated outside the administrative boundaries of the c
    <img src="{{ '/assets/img/featuredwork/05-MUC/05-AXO.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%; margin: 0 auto;">
 </div>
 
-## Key Node:Hallbergmoos Railway Station
+**Key Node:Hallbergmoos Railway Station**
 <div style="text-align:center;">
    <img src="{{ '/assets/img/featuredwork/05-MUC/05-Node.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%; margin: 0 auto;">
 </div>
