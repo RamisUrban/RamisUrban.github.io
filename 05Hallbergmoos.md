@@ -71,8 +71,20 @@ Although Hallbergmoos is situated outside the administrative boundaries of the c
    <img src="{{ '/assets/img/featuredwork/05-MUC/05-Render.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%; margin: 0 auto;">
 </div>
 
+## Critics and Self-reflection
+
+This project served as my experimental exploration of the concept of transit-oriented development back in 2019 when I was an undergraduate student. I was excited about the concept of transit-oriented-development at that time and thought it was the most correct principle for future urban planning. Now, reflecting on it as a postgraduate student with several years of experience, I find myself raising further questions that are not only pertinent to this specific project but also to numerous similar airport city development initiatives worldwide:
+
+1. Should airports be transformed into urbanized areas? Could such transformation potentially encourage more air travel and result in increased carbon emissions? Furthermore, how do we define the boundaries of urban growth within this context?
+
+2. Whom should urban development primarily serve? Should it cater to fly-in-fly-out expatriates or prioritize the needs of existing urban dwellers? Are these urban developments simply products of a capitalistic society, or are they genuinely designed to meet the needs of all individuals?
+
+3. How do we define the concept of "green" within the scope of these projects? Does being green solely involve planting more trees and vegetation, or should it encompass a broader range of factors, such as preserving natural landscapes, promoting sustainable consumption and production practices, and fostering citizen awareness and behaviour?
+
+While it may be challenging to find a definitive answer to these questions, as a planner, I have come to realize that planning should not be reduced to merely "planning for development." It is of great importance to understand whom I am planning for and consider their diverse needs and perspectives."
+
+Date: 2023/05/18
+
 ## Acknowledgement
 *The images above are created by Jiaqi Wang based on the findings of the team research project.*
-
-The full research article can be read from [Urban Science](https://doi.org/10.3390/urbansci4010002)
 
