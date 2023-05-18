@@ -19,20 +19,21 @@ Project location: Munich, Germany  <br>
 **City of Munich vs Port of Munich**
 Although Hallbergmoos is situated outside the administrative boundaries of the city of Munich, it has already become an integral part of the Munich Metropolitan Region owing to its strong connectivity with the Munich International Airport. With the proposed construction of the third runway at Munich Airport, Hallbergmoos is poised to undergo significant transformations. This project explores the potential of Hallbergmoos as an airport city, envisioning its critical role as a new engine and a new gate for Munich in the decades to come.
 <div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/05-MUC/05-MappingMUC.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%; margin: 0 auto;">
+   <img src="{{ '/assets/img/featuredwork/05-MUC/05-MappingMUC.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:60%; margin: 0 auto;">
 </div>
 
 **Visioning Hallbergmoos**
 <div style="text-align:center;">
    <img src="{{ '/assets/img/featuredwork/05-MUC/05-Concept.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:60%; margin: 0 auto;">
 </div>
+
 <div style="text-align:center;">
    <img src="{{ '/assets/img/featuredwork/05-MUC/05-Concept2.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:60%; margin: 0 auto;">
 </div>
 
 **Long-term Vision: part of the Aerotropolis Munich Plan**
 <div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/05-MUC/05-Concept2.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:60%; margin: 0 auto;">
+   <img src="{{ '/assets/img/featuredwork/05-MUC/05-Vision.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:60%; margin: 0 auto;">
 </div>
 
 
