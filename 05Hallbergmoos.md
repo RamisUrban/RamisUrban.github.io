@@ -38,11 +38,10 @@ Although Hallbergmoos is situated outside the administrative boundaries of the c
 
 
 ## STRATEGY
-
 **Transit-Oriented Development:Creating Diversity and Density**
 <div style="display: flex; align-self: flex-start;">
    <div style="flex: 1;">
-       <img src="{{ '/assets/img/featuredwork/05-MUC/05-Layers.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:70%; margin: 0 auto;">
+       <img src="{{ '/assets/img/featuredwork/05-MUC/05-Layers.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:90%; margin: 0 auto;">
    </div>
    <div style="flex: 1;">
       <img src="{{ '/assets/img/featuredwork/05-MUC/05-Master Plan.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:70%; margin: 0 auto;">
