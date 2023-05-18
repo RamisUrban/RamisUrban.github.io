@@ -7,39 +7,68 @@ categories: ["Urban Design"]
 
 <div id="project-info">
 	<font size=2> <font color="grey">
-Research Project at the Technical University of Munich  <br>  
+Urban Design Excercise After Airport Region of Munich Course at Technical University of Munich <br>  
 Time: April.2019 - July. 2018  <br>  
-Research Leader: Dr Fabian Wenner   <br>  
-Development of the Assessment Tool: Dr Fabian Wenner, Khoi Anh Dang, Alessandro Pedrazzoli, Jiaqi Wang   <br>  
-Other Contributors: Melina Hölzl,Magdalena Schmidkunz,Alain Thierstein  <br>  
-Project location: Munich, Germany   <br>  
+Author: Jiaqi Wang   <br>  
+Project location: Munich, Germany  <br>  
    </font></font>
 </div>
 
-## Introduction
+## CONCEPT
 
-The "Inside Out" project is a quantitative research project led by Dr Fabian Wenner to investigate the “Zweite Stammstrecke” Express Rail Project’s indication of urbanisation and regionalization for the Munich Metropolitan Region (MMR). 
-
-Based on an integrated urban and transport planning philosophy, a digital tool to assess the balance of public transport accessibility and functional density at stations in the MMR is developed, which also leads to further recommendations of planning strategies. 
-
-## Methodology
-
+**City of Munich vs Port of Munich**
+Although Hallbergmoos is situated outside the administrative boundaries of the city of Munich, it has already become an integral part of the Munich Metropolitan Region owing to its strong connectivity with the Munich International Airport. With the proposed construction of the third runway at Munich Airport, Hallbergmoos is poised to undergo significant transformations. This project explores the potential of Hallbergmoos as an airport city, envisioning its critical role as a new engine and a new gate for Munich in the decades to come.
 <div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/05-MUC/05-Theory-01.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%; margin: 0 auto;">
+   <img src="{{ '/assets/img/featuredwork/05-MUC/05-MappingMUC.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%; margin: 0 auto;">
 </div>
 
-## GeoData Visualisation
-
+**Visioning Hallbergmoos**
 <div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/05-MUC/05-Mapping.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%; margin: 0 auto;">
+   <img src="{{ '/assets/img/featuredwork/05-MUC/05-Concept.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:60%; margin: 0 auto;">
+</div>
+<div style="text-align:center;">
+   <img src="{{ '/assets/img/featuredwork/05-MUC/05-Concept2.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:60%; margin: 0 auto;">
 </div>
 
-## Clusters of the Nodes
+**Long-term Vision: part of the Aerotropolis Munich Plan**
+<div style="text-align:center;">
+   <img src="{{ '/assets/img/featuredwork/05-MUC/05-Concept2.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:60%; margin: 0 auto;">
+</div>
 
-By performing a K-mean cluster analysis, seven clusters of the nodes are identified. The following spider maps for each cluster show the typical levels of different measured indicators that reveal their spatial characteristics and development potentials to a certain extent. Also, for each type of node, a guiding planning principle is given as a reference for their future development.
+
+## STRATEGY
+
+**Diversity**
 
 <div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/05-MUC/05-cluster-01.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%; margin: 0 auto;">
+   <img src="{{ '/assets/img/featuredwork/05-MUC/05-Layers.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:70%; margin: 0 auto;">
+</div>
+
+**Density**
+<div style="text-align:center;">
+   <img src="{{ '/assets/img/featuredwork/05-MUC/05-Master Plan.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:70%; margin: 0 auto;">
+</div>
+
+**Transit-Oriented Development**
+<div style="text-align:center;">
+   <img src="{{ '/assets/img/featuredwork/05-MUC/05-Fabric-03.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:60%; margin: 0 auto;">
+</div>
+
+
+## VISUALISATION
+
+**Axonometrics**
+<div style="text-align:center;">
+   <img src="{{ '/assets/img/featuredwork/05-MUC/05-AXO.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%; margin: 0 auto;">
+</div>
+
+## Key Node:Hallbergmoos Railway Station
+<div style="text-align:center;">
+   <img src="{{ '/assets/img/featuredwork/05-MUC/05-Node.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%; margin: 0 auto;">
+</div>
+
+<div style="text-align:center;">
+   <img src="{{ '/assets/img/featuredwork/05-MUC/05-Render.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%; margin: 0 auto;">
 </div>
 
 ## Acknowledgement
