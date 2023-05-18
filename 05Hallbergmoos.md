@@ -50,7 +50,7 @@ Although Hallbergmoos is situated outside the administrative boundaries of the c
 
 **Transit-Oriented Development: Urban Fabric and Public Transport System**
 <div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/05-MUC/05-Fabric-03.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:60%; margin: 0 auto;">
+   <img src="{{ '/assets/img/featuredwork/05-MUC/05-Fabric-03.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:85%; margin: 0 auto;">
 </div>
 
 
