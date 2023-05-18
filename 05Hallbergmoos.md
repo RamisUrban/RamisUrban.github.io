@@ -31,14 +31,14 @@ Although Hallbergmoos is situated outside the administrative boundaries of the c
    <img src="{{ '/assets/img/featuredwork/05-MUC/05-Concept2.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:60%; margin: 0 auto;">
 </div>
 
-**Long-term Vision: part of the Aerotropolis Munich Plan**
+**Long-term Vision: Part of the Aerotropolis Munich Plan**
 <div style="text-align:center;">
    <img src="{{ '/assets/img/featuredwork/05-MUC/05-Vision.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:60%; margin: 0 auto;">
 </div>
 
 
 ## STRATEGY
-**Transit-Oriented Development:Creating Diversity and Density**
+**Transit-Oriented Development: Creating Diversity and Density**
 <div style="display: flex; align-self: flex-start;">
    <div style="flex: 1;">
        <img src="{{ '/assets/img/featuredwork/05-MUC/05-Layers.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:90%; margin: 0 auto;">
@@ -61,7 +61,7 @@ Although Hallbergmoos is situated outside the administrative boundaries of the c
    <img src="{{ '/assets/img/featuredwork/05-MUC/05-AXO.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%; margin: 0 auto;">
 </div>
 
-**Key Node:Hallbergmoos Railway Station**
+**Key Node: Hallbergmoos Railway Station**
 <div style="text-align:center;">
    <img src="{{ '/assets/img/featuredwork/05-MUC/05-Node.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:100%; margin: 0 auto;">
 </div>
