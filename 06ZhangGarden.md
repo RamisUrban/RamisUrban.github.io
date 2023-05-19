@@ -9,8 +9,7 @@ categories: ["Urban Design & Architecture"]
    <img src="{{ '/assets/img/featuredwork/06-ZG/06-Heading-fold.jpg' | prepend: site.baseurl }}" 
    onmouseover="this.src='/assets/img/featuredwork/06-ZG/06-Heading-unfold.jpg'" 
 		onmouseout="this.src='/assets/img/featuredwork/06-ZG/06-Heading-fold.jpg'" 
-      style="height:auto; object-fit: cover; width:70%; margin: 0 auto;">
-</div></a>
+      style="height:auto; object-fit: cover; width:70%; margin: 0 auto;"></a>
 
 <div id="project-info">
 	<font size=2> <font color="grey">
