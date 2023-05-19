@@ -4,10 +4,14 @@ title:  "Boundless Zhang Garden "
 subtitle: "The Regeneration of West Nanjing Road District" 
 categories: ["Urban Design & Architecture"]
 ---
-<div style="text-align:center;">
-<img src="{{ '/assets/img/featuredwork/06-ZG/06-Render01.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:100%; margin: 0 auto;">
-</div>
 
+
+<div style="text-align:center;">
+   <img src="{{ '/assets/img/featuredwork/06-ZG/06-Heading-fold.jpg' | prepend: site.baseurl }}" 
+   onmouseover="this.src='/assets/img/featuredwork/06-ZG/06-Heading-unfold.jpg'" 
+		onmouseout="this.src='/assets/img/featuredwork/06-ZG/06-Heading-fold.jpg'" 
+      style="height:auto; object-fit: cover; width:70%; margin: 0 auto;">
+</div>
 
 <div id="project-info">
 	<font size=2> <font color="grey">
@@ -20,18 +24,17 @@ Project location: Shanghai, China  <br>
    </font></font>
 </div>
 
-<div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/06-ZG/06-Heading-fold.jpg' | prepend: site.baseurl }}" 
-   onmouseover="this.src='/assets/img/featuredwork/06-ZG/06-Heading-unfold.jpg'" 
-		onmouseout="this.src='/assets/img/featuredwork/06-ZG/06-Heading-fold.jpg'" 
-      style="height:auto; object-fit: cover; width:100%; margin: 0 auto;">
-</div>
 
 ## Breaking the Boundary between Ground and Underground
 
 **Section**
 <div style="text-align:center;">
 <img src="{{ '/assets/img/featuredwork/06-ZG/06-Section.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:80%; margin: 0 auto;">
+</div>
+
+**Renders: the urban valley**
+<div style="text-align:center;">
+<img src="{{ '/assets/img/featuredwork/06-ZG/06-Render01.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:100%; margin: 0 auto;">
 </div>
 
 **Renders: the theatric and rehearsal space**
