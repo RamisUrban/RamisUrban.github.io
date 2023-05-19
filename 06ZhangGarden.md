@@ -28,23 +28,16 @@ Project location: Shanghai, China  <br>
 ## Breaking the Boundary between Ground and Underground
 
 **Section**
-<div style="text-align:center;">
 <img src="{{ '/assets/img/featuredwork/06-ZG/06-Section.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:80%; margin: 0 auto;">
-</div>
 
 **Renders: the urban valley**
-<div style="text-align:center;">
 <img src="{{ '/assets/img/featuredwork/06-ZG/06-Render01.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:100%; margin: 0 auto;">
-</div>
 
 **Renders: the theatric and rehearsal space**
-<div style="text-align:center;">
 <img src="{{ '/assets/img/featuredwork/06-ZG/06-Render04.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:80%; margin: 0 auto;">
-</div>
 
 **Renders: the courtyard**
 <img src="{{ '/assets/img/featuredwork/06-ZG/06-Render05.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:80%; margin: 0 auto;">
-</div>
 
 **video**
 
@@ -59,11 +52,9 @@ Project location: Shanghai, China  <br>
 
 **Day: For community**
 <img src="{{ '/assets/img/featuredwork/06-ZG/06-Render0.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:80%; margin: 0 auto;">
-</div>
 
 **Night: For metropolis**
 <img src="{{ '/assets/img/featuredwork/06-ZG/06-Render02.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:80%; margin: 0 auto;">
-</div>
 
 
 ## Acknowledgement
