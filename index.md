@@ -99,7 +99,7 @@ sitemap:
 		<font size=2> 
 		Green Airport City of Munich   
 	<td style="text-align:center;vertical-align: top;  height: 400px"><centre>
-		<a href="{{ '/blog' | prepend: site.baseurl }}">
+		<a href="{{ '/06ZhangGarden' | prepend: site.baseurl }}">
 		<img src="{{ '/assets/img/featuredwork/Project06_ZG.jpg' | prepend: site.baseurl }}" style="height:300px; object-fit: cover; width:auto; max-width:100%;"> <font size=4> Boundless Zhang Garden <br> <font size=2> The Regeneration of West Nanjing Road District
 	<tr style="height: 450px;">
 	<td style="text-align:center;vertical-align: top;  height: 400px"><centre>
