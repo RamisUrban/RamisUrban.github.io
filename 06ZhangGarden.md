@@ -21,9 +21,9 @@ Project location: Shanghai, China  <br>
 </div>
 
 <div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/06-ZG/6-Heading-fold.jpg' | prepend: site.baseurl }}" 
+   <img src="{{ '/assets/img/featuredwork/06-ZG/06-Heading-fold.jpg' | prepend: site.baseurl }}" 
    onmouseover="this.src='/assets/img/featuredwork/06-ZG/06-Heading-unfold.jpg'" 
-		onmouseout="this.src='/assets/img/featuredwork/06-ZG/6-Heading-fold..jpg'" 
+		onmouseout="this.src='/assets/img/featuredwork/06-ZG/06-Heading-fold.jpg'" 
       style="height:auto; object-fit: cover; width:100%; margin: 0 auto;">
 </div>
 
