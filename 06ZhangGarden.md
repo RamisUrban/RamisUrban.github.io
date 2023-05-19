@@ -57,5 +57,5 @@ Project location: Shanghai, China  <br>
 
 
 ## Acknowledgement
-The concept and design are co-authored by the whole deisgn team. The visualisations above are co-created by the team. The video is created by Jiaqi Wang based on the models by the group.
+The concept and design are co-authored by the whole deisgn team. The visualisations above are co-created by the team. The video is created by Jiaqi Wang based on the group model.
 
