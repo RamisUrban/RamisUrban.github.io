@@ -27,7 +27,7 @@ Project location: Shanghai, China  <br>
       style="height:auto; object-fit: cover; width:100%; margin: 0 auto;">
 </div>
 
-##Breaking the Boundary between Ground and Underground
+## Breaking the Boundary between Ground and Underground
 
 **Section**
 <div style="text-align:center;">
