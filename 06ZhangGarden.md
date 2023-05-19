@@ -18,7 +18,7 @@ Graduation Project for Bachelor of Architecture<br>
 Institute: Tongji University  <br>  
 Time: Feb.2020 - July. 2020  <br>  
 Design Team: Jiaqi Wang together with Xiyan Yang /Xiaohan Ren /Di Zhao/Sihan Chen/Tian Tian /Xiaofei Hong/Xinrong Que /Jiawei Hu / Yinsong Bai /Xing Hao /Yuyang Zhang <br>  
-Supervisor: Dr Yi Dong  /Dr Zhendong Wang 
+Supervisor: Dr Yi Dong  /Dr Zhendong Wang <br>
 Project location: Shanghai, China  <br>  
    </font></font>
 </div>
