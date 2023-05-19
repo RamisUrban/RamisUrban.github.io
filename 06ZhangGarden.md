@@ -5,13 +5,12 @@ subtitle: "The Regeneration of West Nanjing Road District"
 categories: ["Urban Design & Architecture"]
 ---
 
-
-<div style="text-align:center;">
+ <a href="{{ '/assets/img/featuredwork/06-ZG/06-Heading-unfold.jpg' | prepend: site.baseurl }}">
    <img src="{{ '/assets/img/featuredwork/06-ZG/06-Heading-fold.jpg' | prepend: site.baseurl }}" 
    onmouseover="this.src='/assets/img/featuredwork/06-ZG/06-Heading-unfold.jpg'" 
 		onmouseout="this.src='/assets/img/featuredwork/06-ZG/06-Heading-fold.jpg'" 
       style="height:auto; object-fit: cover; width:70%; margin: 0 auto;">
-</div>
+</div></a>
 
 <div id="project-info">
 	<font size=2> <font color="grey">
