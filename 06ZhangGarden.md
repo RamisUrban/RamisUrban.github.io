@@ -27,12 +27,13 @@ Project location: Shanghai, China  <br>
 Zhang Garden, situated in the heart of Shanghai, holds a significant place in the city's history as a well-established neighborhood and a birthplace for the modern culture of Shanghai. In this project, we explore a fresh approach to urban regeneration within this historical district. By considering different stakeholders, including existing citizens, nearby drama schools, start-up business, local artists as well as the developers, our focus lies in providing a synergetic vision that strike a balance between their needs and maximize the opportunites brought by urban regeneration and densification.
 
 Our proposal revolves around creating a new underground layer as an extention of existing Zhang Garden above the ground, which aims to safeguard the authentic community life and traditional culture above the ground. Simultaneously, we envision the creation of vibrant, youthful spaces that serve as incubators for metropolitan culture. By intertwining these elements, we seek to revitalize Zhang Garden, preserving its heritage while igniting a dynamic and progressive atmosphere.
+<img src="{{ '/assets/img/featuredwork/06-ZG/06-Concept.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:80%; margin: 0 auto;">
 
 ## Breaking the Boundary between Ground and Underground
 
 **Section：Entension of the old buildings**
 In our proposal, the histocial buildings are expanding downward, to accommodate the producers "new culture" as new art workshops, start-up office, sharing recording studio, and other cultural space. 
-<img src="{{ '/assets/img/featuredwork/06-ZG/06-Section.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:80%; margin: 0 auto;">
+<img src="{{ '/assets/img/featuredwork/06-ZG/06-Section.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:60%; margin: 0 auto;">
 
 **Renders: the Urban Valley**
 The surrounding New Development are gradually sunken into the new underground space without bringing in so many tourists into the existing community space overground.
