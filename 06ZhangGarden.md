@@ -51,8 +51,7 @@ The courtyard not only provides natural lighting to the underground spaces but a
 <video
       controls
       src="https://www.dropbox.com/s/vrr3e4w2caysn7f/CultPro.mp4?raw=1"
-      width="800px"
-      height="450px"
+       width="100%" height="auto" style="max-width: 100%;"
 ></video>
 
 ## Underground Public + Commercial Space
