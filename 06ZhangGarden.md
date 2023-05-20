@@ -31,7 +31,7 @@ Our proposal revolves around creating a new underground layer as an extention of
 ## Breaking the Boundary between Ground and Underground
 
 **Section：Entension of the old buildings**
-In our proposal, the histocial buildings are expanding downward, to accommodate the producers "new culture" as new art workshops, start-up office, sharing recording studio, and other cultural space.
+In our proposal, the histocial buildings are expanding downward, to accommodate the producers "new culture" as new art workshops, start-up office, sharing recording studio, and other cultural space. 
 <img src="{{ '/assets/img/featuredwork/06-ZG/06-Section.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:80%; margin: 0 auto;">
 
 **Renders: the Urban Valley**
