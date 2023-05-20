@@ -22,6 +22,11 @@ Project location: Shanghai, China  <br>
    </font></font>
 </div>
 
+## Context
+
+Zhang Garden, situated in the heart of Shanghai, holds a significant place in the city's history as a well-established neighborhood and a birthplace for the modern culture of Shanghai. In this project, we explore a fresh approach to urban regeneration within this historical district. By considering different stakeholders, including existing citizens, nearby drama schools, start-up business, local artists as well as the developers, our focus lies in providing a synergetic vision that strike a balance between their needs and maximize the opportunites brought by urban regeneration and densification.
+
+Our proposal revolves around creating a new underground layer, which aims to safeguard the authentic community life and traditional culture above the ground. Simultaneously, we envision the creation of vibrant, youthful spaces that serve as incubators for metropolitan culture. By intertwining these elements, we seek to revitalize Zhang Garden, preserving its heritage while igniting a dynamic and progressive atmosphere.
 
 ## Breaking the Boundary between Ground and Underground
 
