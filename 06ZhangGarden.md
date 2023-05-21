@@ -31,19 +31,19 @@ Our proposal revolves around creating a new underground layer as an extention of
 
 ## Breaking the Boundary between Ground and Underground
 
-**Section：Entension of the old buildings**
+**Section：Entension of the old buildings**  
 In our proposal, the histocial buildings are expanding downward, to accommodate the producers "new culture" as new art workshops, start-up office, sharing recording studio, and other cultural space. 
 <img src="{{ '/assets/img/featuredwork/06-ZG/06-Section.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:60%; margin: 0 auto;">
 
-**Renders: the Urban Valley**
+**Renders: the Urban Valley**  
 The surrounding New Development are gradually sunken into the new underground space without bringing in so many tourists into the existing community space overground.
 <img src="{{ '/assets/img/featuredwork/06-ZG/06-Render01.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:100%; margin: 0 auto;">
 
-**Renders: Theatric and Rehearsal Space**
+**Renders: Theatric and Rehearsal Space**  
 This space is created to link local community and student from the drama school. Students use this courtyard for rehearsal and informal performance for local community. 
 <img src="{{ '/assets/img/featuredwork/06-ZG/06-Render04.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:80%; margin: 0 auto;">
 
-**Renders: The courtyard**
+**Renders: The courtyard**  
 The courtyard not only provides natural lighting to the underground spaces but also allows the visitors to observe the vibrant community life in this historical district above ground.
 <img src="{{ '/assets/img/featuredwork/06-ZG/06-Render05.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:80%; margin: 0 auto;">
 
@@ -59,9 +59,11 @@ The courtyard not only provides natural lighting to the underground spaces but a
 The commercial ares and public spaces are arranged below, where they can see the multiple art workshops hanging over them, as a new land-mark of Shanghai. During the day and night, they can be used for different activities.
 
 **Day: For community**
+
 <img src="{{ '/assets/img/featuredwork/06-ZG/06-Render0.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:80%; margin: 0 auto;">
 
 **Night: For metropolis**
+
 <img src="{{ '/assets/img/featuredwork/06-ZG/06-Render02.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:80%; margin: 0 auto;">
 
 
