@@ -117,9 +117,9 @@ These three rings will further synergize with each other and lead to new product
 </div>
 
 <div style="text-align:center;">
-<img src="{{ '/assets/img/featuredwork/03-ZH/03-agro-colo.jpg' | prepend: site.baseurl }}" 
+<img src="{{ '/assets/img/featuredwork/03-ZH/03-agro-color.jpg' | prepend: site.baseurl }}" 
 		onmouseover="this.src='/assets/img/featuredwork/03-ZH/03-agro-flow.jpg'" 
-		onmouseout="this.src='/assets/img/featuredwork/03-ZH/03-agro-colo.jpg'"  
+		onmouseout="this.src='/assets/img/featuredwork/03-ZH/03-agro-color.jpg'"  
           style="height:auto; object-fit: cover; width:90%;  margin: 0 auto;">
 </div>
 
