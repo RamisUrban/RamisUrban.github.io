@@ -29,7 +29,7 @@ sitemap:
 		<img src="{{ '/assets/img/featuredwork/Project01_Gen.jpg' | prepend: site.baseurl }}" 
 			style="height:300px; object-fit: cover; width:auto; max-width:100%;"> 
 		<font size=4> 
-			Quantifiying Transit-Induced-Gentrification 
+			Quantifying Transit-Induced-Gentrification 
 			<br> 
 		<font size=2> 
 			 Evidence from East London			 	  
@@ -50,6 +50,8 @@ sitemap:
 		<centre>
 		<a href="{{ '/02Pattern' }}">
 			<img src="{{ '/assets/img/featuredwork/Project021_Pattern.jpg' | prepend: site.baseurl }}" 
+			onmouseover="this.src='/assets/img/featuredwork/Project021_Pattern2.jpg'" 
+			onmouseout="this.src='/assets/img/featuredwork/Project021_Pattern.jpg'" 
 			style="height:300px; object-fit: cover; width:auto; max-width:100%;"> 
 			<font size=4> 
 			Live with Water 
@@ -73,6 +75,8 @@ sitemap:
 	<centre>
 		<a href="{{ '/02Livewithwater' | prepend: site.baseurl }}">
 			<img src="{{ '/assets/img/featuredwork/Project02_LwW.jpg' | prepend: site.baseurl }}" 
+			onmouseover="this.src='/assets/img/featuredwork/Project02_Lwf.jpg'" 
+			onmouseout="this.src='/assets/img/featuredwork/Project02_LwW.jpg'"
 			style="height:300px; object-fit:cover;max-width:100%;"> 
 		<font size=4> 
 		Live with Water 

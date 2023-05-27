@@ -1,11 +1,11 @@
 ---
 layout: page
-title:  "Quantifiying Transit-Induced-Gentrification"
+title:  "Quantifying Transit-Induced-Gentrification"
 subtitle: "Evidence from East London neighbourhoods affected by the extensions of London Overground and Dockland Light Railway" 
 categories: ["Projects"]
 ---
 
-<img src="{{ '/assets/img/featuredwork/Project02_LwW.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:100%;">
+<img src="{{ '/assets/img/featuredwork/Project01_Gen.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:100%;">
 
 <div id="project-info">
 	<font size=2> <font color="grey">  
