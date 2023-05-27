@@ -25,14 +25,14 @@ sitemap:
  	<tr>
 	<td style="text-align:center;vertical-align: top; height: 400px">
 		<centre>
-	  <a href="{{ '/blog' | prepend: site.baseurl}}">
+	  <a href="{{ '/01EastLondon' | prepend: site.baseurl}}">
 		<img src="{{ '/assets/img/featuredwork/Project01_Gen.jpg' | prepend: site.baseurl }}" 
 			style="height:300px; object-fit: cover; width:auto; max-width:100%;"> 
 		<font size=4> 
-			Transit-Induced-Gentrification? 
+			Quantifiying Transit-Induced-Gentrification 
 			<br> 
 		<font size=2> 
-			 A study based on East London			 	  
+			 Evidence from East London			 	  
 	<td style="text-align:center;vertical-align: top;  height: 400px"><centre>
 		<a href="{{ '/05MUC' | prepend: site.baseurl }}">
 		<img src="{{ '/assets/img/featuredwork/Project05_MUC.jpg' | prepend: site.baseurl }}" 
@@ -48,7 +48,7 @@ sitemap:
 	<tr style="height: 450px;">
 	<td style="text-align:center;vertical-align: top; height: 400px">
 		<centre>
-		<a href="{{ '/02Livewithwater' }}">
+		<a href="{{ '/02Pattern' }}">
 			<img src="{{ '/assets/img/featuredwork/Project021_Pattern.jpg' | prepend: site.baseurl }}" 
 			style="height:300px; object-fit: cover; width:auto; max-width:100%;"> 
 			<font size=4> 
@@ -71,7 +71,7 @@ sitemap:
 	<tr style="height: 450px;">
 	<td style="text-align:center;vertical-align: top; height: 400px">
 	<centre>
-		<a href="{{ '/blog' | prepend: site.baseurl }}">
+		<a href="{{ '/02Livewithwater' | prepend: site.baseurl }}">
 			<img src="{{ '/assets/img/featuredwork/Project02_LwW.jpg' | prepend: site.baseurl }}" 
 			style="height:300px; object-fit:cover;max-width:100%;"> 
 		<font size=4> 

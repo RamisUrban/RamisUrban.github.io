@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Live With Water"
-subtitle: "A Pattern Language Towards a Water-oriented Urban Development" 
+subtitle: "2030 Vision for Shangpai Town, Hefei" 
 categories: ["Projects"]
 ---
 
