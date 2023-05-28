@@ -7,13 +7,13 @@ categories: ["Master Planning and Urban Design"]
 
 <img src="{{ '/assets/img/featuredwork/02-W/02-heading.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:100%;">
 
-*The 2030 Vision for Shangpai Town is a pilot project for the my Master's Thesis at TU Delft, the full report is available at [repository](http://resolver.tudelft.nl/uuid:ec611a54-07c1-4801-9bbd-2d4afd8ac120).*
+*The 2030 Vision for Shangpai Town is a pilot project for the my Master's Thesis at TU Delft, the full report is available at [TU Delft repository](http://resolver.tudelft.nl/uuid:ec611a54-07c1-4801-9bbd-2d4afd8ac120).*
 
 <div id="project-info">
 	<font size=2> <font color="grey">  
    Master Thesis | MSc Architecture, Urbanism and Building Sciences | Urbanism Track <br>
    Institution: TU Delft   <br>
-   Graduation Lab: Urban Metabolism and Climate
+   Graduation Lab: Urban Metabolism and Climate<br>
    Time: Feb.2021 - Jun. 2022   <br>
    Project supervisors: Kristel Aalber, Remon Rooij  <br>
    Project location: Hefei, Anhui, China <br>
