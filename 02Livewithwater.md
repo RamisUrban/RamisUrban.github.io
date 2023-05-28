@@ -25,7 +25,7 @@ categories: ["Master Planning and Urban Design"]
 The Lake Chao Basin has witnessed rapid urbanisation in the past few dacades. Despite the rise of people's overall living standard and local economy, this has led to increasing water issues in the area. The sprawling urban territory has largely occupied the originally unpaved surface and slowed down the natural infiltration process extremely, resulting in the growing flood risk in front of
 the extreme storm events. The emissions from the expanding urban area also bring severe contaminations to the water body within the basin. This not only leads to the degradation of the local ecosystem but also makes the water of Lake Chao hardly suitable for consumption since 2007, which put extra pressure on the local drinking water supply. Additionally, with the increasing intensity and frequency of drought and flooding in this area since the 20th century (CMA, 2021; Jia,2012). Further stress on water issues is foreseeable under the threat of global climate change. That is why it is essential for the area to reconsider how people live with water in a sustainable way in the future.
 
-## Method
+## Methodology
 
 <div style="text-align:center;">
     <img src="{{ '/assets/img/featuredwork/02-W/02-approach.jpg' | prepend: site.baseurl }}" 
