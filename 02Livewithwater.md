@@ -46,16 +46,7 @@ In the project, a pattern language method is employed (Click <a href="{{ '/02Pat
 With the implementation of the water-oriented pattern language, the citizens in Shangpai Town can live with water in a sustainable way. The boundary between agricultural production, industrial zone and residential zone are blurred, so the water loop can be fully circular to minimize the freshwater consumption. The urban space is designed with the natural rainwater circle taken into full account, which makes sure that the citizens are fully protected from further flooding events. The ecosystem is also regenerated for the flourishment of the waterscape, with the polder agricultural zone, wetland zone and urban space interconnecting to form a dynamic ecological network. More importantly, the whole area will function as an educative park. By integrating all types of programmes into people s daily life and daily production, the mindset of people can be reoriented to appreciate a more sustainable relationship with water in the future. 
 
 **Relinking Water and People in Built Environment**
-<div style="text-align:center;">
-<img src="{{ '/assets/img/featuredwork/02-W/02-3D.jpg' | prepend: site.baseurl }}" 
-		onmouseover="this.src='/assets/img/featuredwork/02-W/02-3D-icon.jpg'" 
-		onmouseout="this.src='/assets/img/featuredwork/02-W/02-3D.jpg'"  
-          style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
-</div>
 
-## Layers for Water and People
-
-**Master Plan**
 <div style="text-align:center;">
     <img src="{{ '/assets/img/featuredwork/02-W/02-Plan-Water.jpg' | prepend: site.baseurl }}" 
     style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
@@ -73,21 +64,22 @@ With the implementation of the water-oriented pattern language, the citizens in 
     style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
 </div>
 
-## Micro Scale: the Possibility of Co-creation
+## Micro Scale Vision
+
+**The Possibility of Co-creation**
 
 <div style="text-align:center;">
     <img src="{{ '/assets/img/featuredwork/02-W/02-co-creation-01.jpg' | prepend: site.baseurl }}" 
-    style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
+    style="height:auto; object-fit: cover; width:60%;  margin: 0 auto;">
 </div>
 
 Community member can cocreate a water-oriented neighbourhood based on their preference using the pattern language like playing cards.
 
+**Water-oriented neighbourhood**
 <div style="text-align:center;">
     <img src="{{ '/assets/img/featuredwork/02-W/02-micro-3D.jpg' | prepend: site.baseurl }}" 
     style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
 </div>
-
-## How will our future neighbourhood look like?
 
 **Rainwater Plaza**
 <div style="text-align:center;">
