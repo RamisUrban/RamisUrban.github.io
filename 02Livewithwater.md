@@ -76,7 +76,7 @@ With the implementation of the water-oriented pattern language, the citizens in 
 
 Community members can cocreate a water-oriented neighbourhood based on their preference using the pattern language like playing cards.
 
-**A Water-Oriented Campus Zone**
+**A Water-Oriented Neighbourhood**
 <div style="text-align:center;">
     <img src="{{ '/assets/img/featuredwork/02-W/02-micro-3D.jpg' | prepend: site.baseurl }}" 
     style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
