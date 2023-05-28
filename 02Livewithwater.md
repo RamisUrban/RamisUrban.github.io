@@ -32,7 +32,7 @@ the extreme storm events. The emissions from the expanding urban area also bring
     style="height:auto; object-fit: cover; width:80%;  margin: 0 auto;">
 </div>
 
-In the project, a pattern language method is employed (Click <a href="{{ '/02Pattern' }}"> **here** </a> explore the pattern language approach further), where a series of design solution and new programmes are proposed. Based on this tool, a new vision of Shangpai Town, currently the frontier of the urbanisation of Lake Chao Basin, is developed to illustrate the implementation of the tool as well as serve as a showcase for the whole region.
+In the project, a pattern language method is employed (Click <a href="{{ '/02Pattern' }}"> **here** </a> to explore the pattern language approach further), where a series of design solution and new programmes are proposed. Based on this tool, a new vision of Shangpai Town, currently the frontier of the urbanisation of Lake Chao Basin, is developed to illustrate the implementation of the tool as well as serve as a showcase for the whole region.
 
 ## Vision Statement
 
