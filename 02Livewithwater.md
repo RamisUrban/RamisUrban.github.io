@@ -34,8 +34,9 @@ the extreme storm events. The emissions from the expanding urban area also bring
 
 In the project, a pattern language method is employed (Click <a href="{{ '/02Pattern' }}"> **here** </a> to explore the pattern language approach further), where a series of design solutions and new programmes are proposed on different scales. Based on this tool, a new vision of Shangpai Town, currently the frontier of the urbanisation of Lake Chao Basin, is developed to illustrate the implementation of the tool as well as serve as a showcase project for the whole region.
 
-## Vision Statement
+## Vision 
 
+**Vision Statement**
 <div style="text-align:center;">
 <img src="{{ '/assets/img/featuredwork/02-W/02-3D.jpg' | prepend: site.baseurl }}" 
 		onmouseover="this.src='/assets/img/featuredwork/02-W/02-3D-icon.jpg'" 
@@ -73,9 +74,9 @@ With the implementation of the water-oriented pattern language, the citizens in 
     style="height:auto; object-fit: cover; width:60%;  margin: 0 auto;">
 </div>
 
-Community member can cocreate a water-oriented neighbourhood based on their preference using the pattern language like playing cards.
+Community members can cocreate a water-oriented neighbourhood based on their preference using the pattern language like playing cards.
 
-**Water-oriented neighbourhood**
+**A Water-Oriented Campus Zone**
 <div style="text-align:center;">
     <img src="{{ '/assets/img/featuredwork/02-W/02-micro-3D.jpg' | prepend: site.baseurl }}" 
     style="height:auto; object-fit: cover; width:100%;  margin: 0 auto;">
