@@ -57,7 +57,7 @@ sitemap:
 			Live with Water 
 			<br> 
 			<font size=2> 
-			Pattern Language as a Co-design Approach 
+			A Pattern Language for Water-Oriented Urban Development 
 	<td style="text-align:center;vertical-align: top; height: 400px">
 		<centre>
 		<a href="{{ '/03ZuidHolland' | prepend: site.baseurl }}">
