@@ -14,7 +14,7 @@ categories: ["Master Planning and Urban Design"]
    Master Thesis | MSc Architecture, Urbanism and Building Sciences | Urbanism Track <br>
    Institution: TU Delft   <br>
    Graduation Lab: Urban Metabolism and Climate<br>
-   Time: Feb.2021 - Jun. 2022   <br>
+   Time: Feb.2022 - Jun. 2022   <br>
    Project supervisors: Kristel Aalber, Remon Rooij  <br>
    Project location: Hefei, Anhui, China <br>
    </font></font>
