@@ -49,7 +49,7 @@ This full pattern language centres around water, where I catagorize the patterns
 4. Programmes: Activities, Events, and New policy agendas that facilitate the implementation of other patterns.
 5. Leverage: The main aims that programmes would serve, which ultimately drives systemic change.
 
-<img src="{{ '/assets/img/featuredwork/02-W/02-Principle.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:100%;">
+<img src="{{ '/assets/img/featuredwork/02-W/02-Principle.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:70%;">
 
 <img src="{{ '/assets/img/featuredwork/02-W/02-Action.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:100%;">
 
@@ -57,7 +57,7 @@ This full pattern language centres around water, where I catagorize the patterns
 
 <img src="{{ '/assets/img/featuredwork/02-W/02-Measures.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:100%;">
 
-<img src="{{ '/assets/img/featuredwork/02-W/02-Programme.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:100%;">
+<img src="{{ '/assets/img/featuredwork/02-W/02-Programme.png' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:auto max-width:70%;">
 
 
 ## The Pattern Book
