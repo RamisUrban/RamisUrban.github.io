@@ -29,7 +29,7 @@ sitemap:
 		<img src="{{ '/assets/img/featuredwork/Project01_Gen.jpg' | prepend: site.baseurl }}" 
 			style="height:300px; object-fit: cover; width:auto; max-width:100%;"> 
 		<font size=4> 
-			Quantifying Transit-Induced-Gentrification 
+			Transit-Induced-Gentrification？ 
 			<br> 
 		<font size=2> 
 			 Evidence from East London			 	  
