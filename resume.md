@@ -50,7 +50,7 @@ Exchange Student
 
 ### Transit-Induced-Genetrification? <span style="float: right; ">Dec.2022-Present</span>
 **The Impact from Dockland Light Railway and London Overground Improvement on Surrounding Neighbourhoods in East London(Ongoing)** 
- - By conducting quantitative analysis in STATA and QGIS, the research aims to create an assessment of public transport development on surrounding neighborhoods’ social economic indicators to proxy the gentrification dynamics it triggers. 
+ - By conducting quantitative analysis in STATA, QGIS and Python, the research aims to create an assessment of public transport development on surrounding neighborhoods’ social economic indicators to proxy the gentrification dynamics it triggers. 
 
 
 ### Live with Water <span style="float: right; ">Aug.2021-Jul.2022</span>  
