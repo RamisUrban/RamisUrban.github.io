@@ -97,7 +97,7 @@ Exchange Student
 
 #### EXPERIENCE
 
-#### Volunteer Publishing Assistant - **The Urban Eyes** <span style="float: right; ">Apr.2023-Present</span>  
+#### Volunteer Publishing Assistant - **Urban Eye** <span style="float: right; ">Apr.2023-Present</span>  
  
 #### Volunteer Facilitator- **East London Water Park** <span style="float: right; ">Apr.2023-Present</span>  
 
