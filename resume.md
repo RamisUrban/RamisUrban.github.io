@@ -99,7 +99,7 @@ Exchange Student
 
 #### Volunteer Publishing Assistant - **Urban Eye** <span style="float: right; ">Apr.2023-Present</span>  
  
-#### Volunteer Facilitator- **East London Water Park** <span style="float: right; ">Apr.2023-Present</span>  
+#### Volunteer Facilitator- **East London Waterworks Park** <span style="float: right; ">Apr.2023-Present</span>  
 
 #### Part-time Urban Design and Architecture Intern - **Original Studio** <span style="float: right; ">Sep.2018-Dec.2019</span>  
 
