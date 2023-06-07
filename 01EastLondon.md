@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Quantifying Transit-Induced-Gentrification"
+title:  "Transit-Induced-Gentrification"
 subtitle: "Evidence from East London neighbourhoods affected by the extensions of London Overground and Dockland Light Railway" 
 categories: ["Projects"]
 ---
