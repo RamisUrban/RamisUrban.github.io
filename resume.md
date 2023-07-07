@@ -16,7 +16,7 @@ subtitle: Know More About Me
 -Lumion, Enscape, Vray  
 -Procreate and Hand-drawing <br>
 **Research and Data Analysis:**  
--Geospatial Analysis: QGIS/ArchGIS     
+-Geospatial Analysis: QGIS/ArcGIS     
 -Quantitative Analysis: Excel, Stata, SPSS, Python  
 -Qualitative Analysis: Survey, Case Study, Mapping   
 **Systemic Design:** Systemic Mapping, Analysis and Ideating  
