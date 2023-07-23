@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hello!
-subtitle: Welcome to UntitledPenguin Studio!
+subtitle: Welcome to the Untitled Penguin Studio!
 sitemap:
   priority: 0.9
 ---
