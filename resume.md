@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About📑
-subtitle: Know More About Jiaqi Wang
+title: Resume📑
+subtitle: Know More About Me
 ---
 
 <span style="float: right; "><a href="{{ '/assets/cv-website-Jiaqi.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
