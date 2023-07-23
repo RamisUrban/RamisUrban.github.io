@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hello!
-subtitle: My name is Jiaqi Wang!
+subtitle: Welcome to UntitledPenguin Studio!
 sitemap:
   priority: 0.9
 ---
@@ -11,13 +11,14 @@ sitemap:
 <img src="{{ '/assets/img/untitledpenguin.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<font size=8> A Curious Urban Designer, 
+	<font size=8> My name is Jiaqi, 
+	<br>A Curious Urban Designer<font>
 	<br>Planner and Researcher<font>
-	<br><font size=5>I aim at building an inclusive and sustainable future with more people!<font>
+	<br><font size=5>I share my thoughts and projects here with people who care about our cities, people and their future!<font>
 <br>
 <br>
 
-<p> <font size=5><strong>  My Featured Work 
+<p> <font size=5><strong>  Featured Work 
 
 <table>
 	<tr>
