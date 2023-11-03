@@ -7,13 +7,13 @@ subtitle: Know More About Me
 <span style="float: right; "><a href="{{ '/assets/cv-website-Jiaqi.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
-#### SKILLS
+### SKILLS
 **Documentation and Visualisation:**  
 -Microsoft Office: Word, Excel, Powerpoint  
 -Adobe Creative Suite:Indesign, Illustrator, Photoshop, Premiere<br>
 **Architecture and Urban Design:**  
 -AutoCAD, Rhino+GH, Sketchup, Revit  
--Lumion, Enscape, Vray  
+-Lumion, Enscape, Vray, Midjourney  
 -Procreate and Hand-drawing <br>
 **Research and Data Analysis:**  
 -Geospatial Analysis: QGIS/ArcGIS     
@@ -23,8 +23,7 @@ subtitle: Know More About Me
 **Teamwork and Collaboration:** Interdisciplinary Communication  
 <br>
 
-
-#### EDUCATION
+### EDUCATION
 
 **University of Cambridge - United Kingdom** <span style="float: right; ">Oct.2022 -Present</span><br>
 *Department of Land Economy*  
@@ -46,60 +45,75 @@ Bachelor of Architecture (Honor)
 Exchange Student  
 <br>
 
-#### RESEARCH AND DESIGN PROJECTS
+### PUBLICATION AND CONFERENCE PRESENTATION
 
-### Transit-Induced-Genetrification? <span style="float: right; ">Dec.2022-Present</span>
-**The Impact from Dockland Light Railway and London Overground Improvement on Surrounding Neighbourhoods in East London(Ongoing)** 
- - By conducting quantitative analysis in STATA, QGIS and Python, the research aims to create an assessment of public transport development on surrounding neighborhoods’ social economic indicators to proxy the gentrification dynamics it triggers. 
+#### Transit-Induced Genetrification? <span style="float: right; ">Dec.2022-Jul.2023</span> 
+**The Impact from Dockland Light Railway and London Overground Improvement on Surrounding Neighbourhoods in East London** 
+ - By conducting quantitative analysis in STATA, QGIS and Python, the research aims to detect and estimate the gentrification annd displacement triggered by TOD development. 
+ - Selected as a panelist at Quantifying Gentrification and Displacement: Big Data and Other Data in ["Gentrification & Displacement:What Can We Do About It? An International Dialogue"](https://sites.bu.edu/gentrification/speakers/), International Conference on Gentrification, Boston, MA
 
+#### Regional Urbanisation through Accessibility? <span style="float: right; ">Mar.2019-Jul.2019</span> 
+**The “Zweite Stammstrecke” Express Rail Project in Munich**
+ - Development of a digital tool for Transit-oriented development analysis for Munich Metropolitan Region, using ArchGIS and SPSS <br>
+ - Published on Urban Sci. 2020, 4(1), 2
+ - Full article from [Urban Science](https://doi.org/10.3390/urbansci4010002)
 
-### Live with Water <span style="float: right; ">Aug.2021-Jul.2022</span>  
+### PLANNING & DESIGN PROJECTS
+#### Live with Water <span style="float: right; ">Aug.2021-Jul.2022</span>  
 **A Sustainable Water-Oriented Urban Development Pattern**
  - Developed a toolbox focusing on mitigating flood risk, tackling water shortage, and reviving water ecology, based on urban metabolism theory.
  - Pilot Project as a showcase for the toolbox: Self-circular Shangpai Town 2030 <br>
  - Read full report from [Repository of TU Delft](http://resolver.tudelft.nl/uuid:ec611a54-07c1-4801-9bbd-2d4afd8ac120) 
 
-
-### Inside Out? <span style="float: right; ">Mar.2019-Jul.2019</span> 
-**Regional Urbanisation through Accessibility?—The “Zweite Stammstrecke” Express Rail Project in Munich**
- - Development of a digital tool for Transit-oriented development analysis for Munich Metropolitan Region, using ArchGIS and SPSS <br>
- - Read full article from [Urban Science](https://doi.org/10.3390/urbansci4010002)
-
-
-### Liv/fe Transition <span style="float: right; ">Feb.2021-Apr.2021</span>  
+#### Liv/fe Transition <span style="float: right; ">Feb.2021-Apr.2021</span>  
 **To a Healthy Agriculture Sector with Livestock as an Integral Part of Life**
 - An integrated framework for energy-transition and a circular agrifood sectors, by encouraging local production and promoting diet transition among consumers <br>
 - Read full report from [Repository of TU Delft](http://resolver.tudelft.nl/uuid:95a96a98-3ec6-4857-b1d3-48089b326c4d)
 
-### Hybrid Networks <span style="float: right; ">Apr.2021 -Jul.2021</span>  
+#### Hybrid Networks <span style="float: right; ">Apr.2021 -Jul.2021</span>  
 **Great Bay Area 2030 and Beyond**  
 *Joint Design Studio between TU Delft and The Hong Kong PolyU*  
 - Spatial planning strategy for the Great Bay Area to foster a green and inclusive future
 
 
-### Seeing Energy？<span style="float: right; ">Oct.2020.-Jan.2021</span>  
+#### Seeing Energy？<span style="float: right; ">Oct.2020.-Jan.2021</span>  
 **Regeneration of TU Delft Power Station**  
 - Energy-led regeneration strategy for TU Delft Campus by rethinking the “energy flow” in built environment
 
 
-### Boundless Zhang Garden: <span style="float: right; ">Feb.2020.-Jul.2020</span>  
+#### Boundless Zhang Garden: <span style="float: right; ">Feb.2020.-Jul.2020</span>  
 **Regeneration Design for the West Nanjing Road District**
 - Bachelor's Graduation Project at Tongji University
 - Based in a pre-colonial district in Shanghai, adopting a holistic design solution that integrate transit-oriented commercial property development, culture-led regeneration and stakeholder engagement
 - won the Gold Award of academic year 2020 in China Living Environment Design Competition.
 
-### Urban "Umbrellas":  <span style="float: right; ">Feb.2018-Jun.2018</span>  
+#### Urban "Umbrellas":  <span style="float: right; ">Feb.2018-Jun.2018</span>  
 **Commercial Complex Design at Sichuan Road**
 - Focus on creating accessible and inclusive public space for everyone in the city
 
 
 <br>
 
-#### EXPERIENCE
+### EXPERIENCE
 
-#### Volunteer Publishing Assistant - **Urban Eye** <span style="float: right; ">Apr.2023-Present</span>  
+#### Junior Urban Designer - **Broadway Malyan (London Studio)** <span style="float: right; ">Apr.2023-Aug.2023</span> 
+- Key Projects Involved:
+
+    Ai Ras Alabyad Project Alba - Ai Madinah，KSA
+	    - Urban Design and Masterplanning of tourism development
+    Hudayriat Village - Hudayriat Village
+	    - Urban Design for a Commercial Centre
+    Al Ain Zoo Masterplan -  Abudabi, UAE 
+	    - Planning and Rennovation of the largest Zoo in Abudabi
+    Dubai Southern and Western Waterfront Development - Dubai， UAE
+	    - Masterplanning of a city subcentre
+    Taweelah Islands Project Nisi - Abudabi, UAE
+	    - Luxury Residential Island Development
+    
+
+#### Volunteer Publishing Assistant - **Urban Eye** <span style="float: right; ">Apr.2023-Aug.2023</span>  
  
-#### Volunteer Facilitator- **East London Waterworks Park** <span style="float: right; ">Apr.2023-Present</span>  
+#### Volunteer Facilitator- **East London Waterworks Park** <span style="float: right; ">Apr.2023-Aug.2023</span>  
 
 #### Part-time Urban Design and Architecture Intern - **Original Studio** <span style="float: right; ">Sep.2018-Dec.2019</span>  
 
