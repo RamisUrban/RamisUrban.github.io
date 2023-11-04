@@ -6,9 +6,8 @@ categories: ["Quantitative Urban Studies"]
 ---
 
 <div style="text-align:center;">
-   <img src="{{ '/assets/img/featuredwork/Project01_Gen.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:80%">
+   <img src="{{ '/assets/img/featuredwork/Project01_Gen.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:80%; margin: 0 auto;">
 </div>
-
 
 <div id="project-info">
 	<font size=2> <font color="grey">  
@@ -39,7 +38,7 @@ The research uncovers that the gentrification and displacement happened in East 
 
 <div style="text-align:center;">
 
-#### Table 1: Estimated Impact from Transportation Development
+<font color="grey"> Table 1: Estimated Impact from Transportation Development </font>
 
    <img src="{{ '/assets/img/featuredwork/01-EL/01-Table 1.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:80%; margin: 0 auto;">
 </div>
@@ -47,7 +46,7 @@ The research uncovers that the gentrification and displacement happened in East 
 
 <div style="text-align:center;">
 
-#### Line Graph 1: Estimated Impact on Median Housing Price
+<font color="grey">  Line Graph 1: Estimated Impact on Median Housing Price </font>
 
    <img src="{{ '/assets/img/featuredwork/01-EL/01-Linegraph1.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:80%; margin: 0 auto;">
 </div>
@@ -57,19 +56,19 @@ In the analysis of annual impact on the neighbourhoods along these two lines sep
 
 <div style="text-align:center;">
 
-#### Line Graph 2: Estimated Impact on Population Retention Rate
+<font color="grey"> Line Graph 2: Estimated Impact on Population Retention Rate </font>
 
    <img src="{{ '/assets/img/featuredwork/01-EL/01-Linegraph2.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:80%; margin: 0 auto;">
 </div>
 
 Additionally, we found a consistent decline in population retention since the opening of these new lines, with the effect being more pronounced around the London Dockland Light Railway each year. It's worth noting that the baseline level already accounts for the impact of other control variables, suggesting that the absolute level of housing price increase and population loss may be even more substantial.
 
-**(2) New construction, driven by the TOD concept plays an extra role in accelerating gentrification and displacement**
+**(2) New constructions around the stations, driven by the TOD concept, play an extra role in accelerating gentrification and displacement**
 
 
 <div style="text-align:center;">
 
-#### Table 2: Estimated Impact from Transit-Oriented Development
+<font color="grey"> Table 2: Estimated Impact from Transit-Oriented Development </font> 
 
    <img src="{{ '/assets/img/featuredwork/01-EL/01-Table2.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:80%; margin: 0 auto;">
 </div>
@@ -79,7 +78,7 @@ The table above provides insights into the impact of new construction within a 1
 
 <div style="text-align:center;">
 
-#### Table 3: K-Mean Cluster Analysis Result
+<font color="grey"> Table 3: K-Mean Cluster Analysis Result </font>
 
    <img src="{{ '/assets/img/featuredwork/01-EL/01-Kmean Result.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:80%; margin: 0 auto;">
 </div>
