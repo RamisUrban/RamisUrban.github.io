@@ -99,3 +99,4 @@ More information regarding the research design and methodology please refer to t
 
 
 *Acknowledgements: The data for this research have been provided by the Consumer Data Research Centre, an ESRC Data Investment, under project ID CDRC 1441, ES/L011840/1; ES/L011891/1*
+*This research is based on my MPhil dissertation conducted under the supervision of Dr Sabina Maslova. I would also like to thank the valuable input from Professor Keren Horn, Professor Helen Bao, Dr Li Wan and Dr Davide Luca to this research.* 

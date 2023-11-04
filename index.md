@@ -27,6 +27,8 @@ sitemap:
 		<centre>
 	  <a href="{{ '/01EastLondon' | prepend: site.baseurl}}">
 		<img src="{{ '/assets/img/featuredwork/Project01_Gen.jpg' | prepend: site.baseurl }}" 
+		onmouseover="this.src='/assets/img/featuredwork/Project01_Gen_02.jpg'" 
+		onmouseout="this.src='/assets/img/featuredwork/Project01_Gen.jpg'" 
 			style="height:300px; object-fit: cover; width:auto; max-width:100%;"> 
 		<font size=4> 
 			Transit-Induced-Gentrification？ 
