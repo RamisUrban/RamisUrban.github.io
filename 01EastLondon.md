@@ -17,7 +17,7 @@ categories: ["Quantitative Urban Studies"]
 </div>
 <br>
 
-This research has been presented at the panel session Quantifying Gentrification and Displacement: Big Data and Other Data in ["Gentrification & Displacement:What Can We Do About It? An International Dialogue"](https://sites.bu.edu/gentrification/speakers/), International Conference on Gentrification, Boston, MA
+*This research has been presented at the panel session Quantifying Gentrification and Displacement: Big Data and Other Data in ["Gentrification & Displacement:What Can We Do About It? An International Dialogue"](https://sites.bu.edu/gentrification/speakers/), International Conference on Gentrification, Boston, MA*
 
 ### Abstract
 
