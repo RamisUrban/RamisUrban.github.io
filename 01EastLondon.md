@@ -5,7 +5,10 @@ subtitle: "Evidence from East London neighbourhoods affected by the extensions o
 categories: ["Quantitative Urban Studies"]
 ---
 
-<img src="{{ '/assets/img/featuredwork/Project01_Gen.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:80%">
+<div style="text-align:center;">
+   <img src="{{ '/assets/img/featuredwork/Project01_Gen.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:80%">
+</div>
+
 
 <div id="project-info">
 	<font size=2> <font color="grey">  
@@ -15,9 +18,10 @@ categories: ["Quantitative Urban Studies"]
    Project location: East London, the United Kingdom   <br>
    </font></font>
 </div>
-<br>
+
 
 *This research has been presented at the panel session Quantifying Gentrification and Displacement: Big Data and Other Data in ["Gentrification & Displacement:What Can We Do About It? An International Dialogue"](https://sites.bu.edu/gentrification/speakers/), International Conference on Gentrification, Boston, MA*
+<br>
 
 ### Abstract
 
@@ -28,29 +32,33 @@ With transit-oriented development (TOD) becoming a widely adopted paradigm in ur
 <br>
 
 ## Key Findings
-The research uncovers that the gentrification and displacement happened in East London around 2010s is highly connected with the state-led transportation development projects and the following new construction under the concept of TOD(transit-oriented development).
+The research uncovers that the gentrification and displacement happened in East London around 2010s is highly connected with the state-led transportation development projects and the following new construction under the concept of TOD(transit-oriented development).There are mainly two takeaways:  
 
-The results show that: 
+**(1) There are significant housing price increase and population retention rate drop around both lines, as well as an uplifted income level around London Overground after the extension programmes, all of which protray the process of gentrification and displacement**.   
 
-**(1)** Significant housing price increase and significant drop in population retention rate around both lines, uplifted income level around London Overground, which protray the process of gentrification and displacement.   
-
-#### Table 1:Estimated Impact from Transportation Development
 
 <div style="text-align:center;">
+
+#### Table 1: Estimated Impact from Transportation Development
+
    <img src="{{ '/assets/img/featuredwork/01-EL/01-Table 1.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:80%; margin: 0 auto;">
 </div>
 
-#### Line Graph 1:Estimated Impact on Median Housing Price
 
 <div style="text-align:center;">
+
+#### Line Graph 1: Estimated Impact on Median Housing Price
+
    <img src="{{ '/assets/img/featuredwork/01-EL/01-Linegraph1.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:80%; margin: 0 auto;">
 </div>
 
 In the analysis of annual impact on the neighbourhoods along these two lines separately, heterogeneity is identified. For instance, housing prices surrounding the London Overground began their ascent after 2006, coinciding with the public announcement of the 'London Overground' project. In contrast, the areas around the Dockland Light Railway saw a delayed surge, with prices taking off only after the end of the London Olympic Games. This observation underscores the intricate interplay between transportation development and various policy initiatives, as well as investment activities. 
 
-#### Line Graph 2:Estimated Impact on Population Retention Rate
 
 <div style="text-align:center;">
+
+#### Line Graph 2: Estimated Impact on Population Retention Rate
+
    <img src="{{ '/assets/img/featuredwork/01-EL/01-Linegraph2.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:80%; margin: 0 auto;">
 </div>
 
@@ -58,17 +66,21 @@ Additionally, we found a consistent decline in population retention since the op
 
 **(2) New construction, driven by the TOD concept plays an extra role in accelerating gentrification and displacement**
 
-#### Table 2:Estimated Impact from Transit-Oriented Development
 
 <div style="text-align:center;">
+
+#### Table 2: Estimated Impact from Transit-Oriented Development
+
    <img src="{{ '/assets/img/featuredwork/01-EL/01-Table2.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:80%; margin: 0 auto;">
 </div>
 
 The table above provides insights into the impact of new construction within a 1km radius of the new stations. It highlights a noteworthy trend where such development has resulted in a substantial increase in income, accompanied by a significant drop in the rate of population retention, which has not been observed in other neighbourhoods with new construction. This shows the extention of London Dockland Light Railway and London Overground together with the transit-oriented property development around them is more likely to displace economically disadvantaged residents from their original neighborhoods, adversely affecting their access to the public transport network instead of benefiting them.
 
-#### Table 3: K-Mean Cluster Analysis Result
 
 <div style="text-align:center;">
+
+#### Table 3: K-Mean Cluster Analysis Result
+
    <img src="{{ '/assets/img/featuredwork/01-EL/01-Kmean Result.jpg' | prepend: site.baseurl }}" style="height:auto; object-fit: cover; width:80%; margin: 0 auto;">
 </div>
 
