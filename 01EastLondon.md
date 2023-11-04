@@ -22,7 +22,6 @@ With transit-oriented development (TOD) becoming a widely adopted paradigm in ur
 
 *Keywords: transit-oriented development, gentrification, displacement, public transport, East London*
 
-*Acknowledgements: The data for this research have been provided by the Consumer Data Research Centre, an ESRC Data Investment, under project ID CDRC 1441, ES/L011840/1; ES/L011891/1*
 
 Note: This research has been presented at the panel session of **Quantifying Gentrification and Displacement: Big Data and Other Data** in ["Gentrification & Displacement:What Can We Do About It? An International Dialogue"](https://sites.bu.edu/gentrification/speakers/), International Conference on Gentrification, Boston, MA
 
@@ -97,3 +96,6 @@ The decision of transportation development should not be made solely by the stat
 More information regarding the research design and methodology please refer to the summary report below:
 
 <iframe src="https://drive.google.com/file/d/1VfwOeuQeL2kcud1r7tyEyEE761dQ90tW/preview" width="100%" height="500px"></iframe>
+
+
+*Acknowledgements: The data for this research have been provided by the Consumer Data Research Centre, an ESRC Data Investment, under project ID CDRC 1441, ES/L011840/1; ES/L011891/1*
