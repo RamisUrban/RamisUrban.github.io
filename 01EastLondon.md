@@ -110,7 +110,7 @@ The decision of transportation development should not be made solely by the stat
 
 More information regarding the research design and methodology please refer to the summary report below:
 
-<iframe src="https://drive.google.com/file/d/1VfwOeuQeL2kcud1r7tyEyEE761dQ90tW/preview" width="80%" height="500px"></iframe>
+<iframe src="https://drive.google.com/file/d/1VfwOeuQeL2kcud1r7tyEyEE761dQ90tW/preview" width="90%" height="720px"></iframe>
 
 
 *Acknowledgements: The data for this research have been provided by the Consumer Data Research Centre, an ESRC Data Investment, under project ID CDRC 1441, ES/L011840/1; ES/L011891/1*
