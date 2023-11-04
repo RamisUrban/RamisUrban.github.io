@@ -15,15 +15,17 @@ categories: ["Quantitative Urban Studies"]
    Project location: East London, the United Kingdom   <br>
    </font></font>
 </div>
+<br>
+
+This research has been presented at the panel session Quantifying Gentrification and Displacement: Big Data and Other Data in ["Gentrification & Displacement:What Can We Do About It? An International Dialogue"](https://sites.bu.edu/gentrification/speakers/), International Conference on Gentrification, Boston, MA
 
 ### Abstract
 
 With transit-oriented development (TOD) becoming a widely adopted paradigm in urban planning, the public sector's investment in railway-based public transport networks has increasingly been deemed a catalyst for urban regeneration. This trend has raised concerns regarding the triggering of gentrification and displacement in districts around the transport node, which could exacerbate social inequalities in terms of access to public transport. However, there is no sufficient quantitative evidence in support of this hypothesis, especially when it comes to indicators beyond housing prices. Using a panel dataset of the seven East London boroughs from 2004 to 2015 at Lower Super Output Area (LSOA) level, this research measures the extent of gentrification and displacement resulting from the extensions of the London Overground and the Dockland Light Railway with five different dependent variables based on the Difference-in-Differences (DID) method. The result reveals significant increases in median housing prices and median household incomes, suggesting the uplifted socioeconomic conditions induced by the transportation programme in LSOAs located within a 1 km radius of the stations. A significantly decreased level of population retention rate also indicates the displacement of the original communities, even after controlling for the impact of the 2012 Summer Olympics. Concurrently, the new property development around the stations is estimated to bring additional impact on such income uplifting and population relocation, uncovering the role of transit-oriented property development as an accelerator in gentrification. A follow-up quantitative modelling of each transport line and a K-means clustering of the studied sample demonstrates the estimated gentrification and displacement are more conspicuous along the London Overground, featured by new-build gentrification around the stations. This provides empirical evidence that captures the processes of transit-induced gentrification in the East London neighbourhoods, underscoring the urgency and necessity for policymakers to consider these implications in future transit-oriented urban regeneration programmes.
 
-*Keywords: transit-oriented development, gentrification, displacement, public transport, East London*
+**Keywords**: transit-oriented development, gentrification, displacement, public transport, East London*
 
-
-Note: This research has been presented at the panel session of **Quantifying Gentrification and Displacement: Big Data and Other Data** in ["Gentrification & Displacement:What Can We Do About It? An International Dialogue"](https://sites.bu.edu/gentrification/speakers/), International Conference on Gentrification, Boston, MA
+<br>
 
 ## Key Findings
 The research uncovers that the gentrification and displacement happened in East London around 2010s is highly connected with the state-led transportation development projects and the following new construction under the concept of TOD(transit-oriented development).
