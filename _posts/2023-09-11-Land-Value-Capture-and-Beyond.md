@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  "Construction of My Website"
-subtitle: "What I have done in the past month"
-date:   2023-05-30 23:21:21 +0530
+title:  "Land Value Capture"
+subtitle: "Concept and beyond"
+date:   2023-11-09 23:21:21 +0530
 categories: ["Urban Planning Tea Party"]
 ---
 
