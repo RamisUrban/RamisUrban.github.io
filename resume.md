@@ -25,7 +25,7 @@ subtitle: Know More About Me
 
 ### EDUCATION
 
-**University of Cambridge - United Kingdom** <span style="float: right; ">Oct.2022 -Present</span><br>
+**University of Cambridge - United Kingdom** <span style="float: right; ">Oct.2022 -Jul.2023</span><br>
 *Department of Land Economy*  
 Mphil Planning, Growth and Regeneration 
 <br>
@@ -114,7 +114,7 @@ Key Projects Involved:
 
 #### Volunteer Publishing Assistant - **Urban Eye** <span style="float: right; ">Apr.2023-Aug.2023</span>  
  
-#### Volunteer Facilitator- **East London Waterworks Park** <span style="float: right; ">Apr.2023-Aug.2023</span>  
+#### Volunteer Facilitator- **East London Waterworks Park** <span style="float: right; ">Apr.2023-Present</span>  
 
 #### Part-time Urban Design and Architecture Intern - **Original Studio** <span style="float: right; ">Sep.2018-Dec.2019</span>  
 
