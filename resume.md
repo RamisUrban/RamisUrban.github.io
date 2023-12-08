@@ -4,7 +4,7 @@ title: Resume📑
 subtitle: Know More About Me
 ---
 
-<span style="float: right; "><a href="{{ '/assets/cv-website-Jiaqi.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
+<span style="float: right; "><a href="{{ '/assets/cv-website1208-Jiaqi.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
 ### SKILLS
@@ -48,8 +48,8 @@ Exchange Student
 ### PUBLICATION & CONFERENCE PRESENTATION
 
 **Transit-Induced Genetrification? The Impact from Dockland Light Railway and London Overground Improvement on Surrounding Neighbourhoods in East London** <span style="float: right; ">Dec.2022-Jul.2023</span> 
- - By conducting quantitative analysis in STATA, QGIS and Python, the research aims to detect and estimate the gentrification annd displacement triggered by TOD development. 
- - Selected as a panelist at Quantifying Gentrification and Displacement: Big Data and Other Data in ["Gentrification & Displacement:What Can We Do About It? An International Dialogue"](https://sites.bu.edu/gentrification/speakers/), International Conference on Gentrification, Boston, MA
+ - By conducting quantitative analysis in STATA, QGIS and Python, the research detects and estimates the gentrification and displacement triggered by Transit-oriented Development(TOD). 
+ - Selected as a panel speaker at the session of Quantifying Gentrification and Displacement: Big Data and Other Data in ["Gentrification & Displacement:What Can We Do About It? An International Dialogue"](https://sites.bu.edu/gentrification/speakers/), International Conference on Gentrification, Boston, MA
 
 **Regional Urbanisation through Accessibility? The “Zweite Stammstrecke” Express Rail Project in Munich**<span style="float: right; ">Mar.2019-Jul.2019</span> 
  - Development of a digital tool for Transit-oriented development analysis for Munich Metropolitan Region, using ArchGIS and SPSS <br>
