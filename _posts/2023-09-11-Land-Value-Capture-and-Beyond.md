@@ -6,7 +6,7 @@ date:   2023-11-09 23:21:21 +0530
 categories: ["Urban Planning Tea Party"]
 ---
 
-*This essay below is extracted from my 5-hour examination paper, an answer to the second quesion in the final examination of course PGR02.*
+*This essay below is extracted from my 5-hour examination paper, an answer to the second question in the final examination of course PGR02.*
 
 ### Introduction
 
