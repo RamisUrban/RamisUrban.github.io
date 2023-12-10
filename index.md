@@ -13,7 +13,7 @@ sitemap:
 <div id="describe-text">
 	<font size=8> A Curious Urban Designer
 	<br>Planner and Researcher<font>
-	<br><font size=5>Aim at building a more inclusive and just cities!<font>
+	<br><font size=5>Aim at building a more inclusive and just future!<font>
 <br>
 <br>
 
